@@ -1,3 +1,2 @@
-# interview-summary-of-C-CPP
-面试题总结之C/C++
-http://www.cnblogs.com/pegasus923/p/5558919.html
+# Interview - 随笔分类 - Pegasus923 - 博客园
+http://www.cnblogs.com/pegasus923/category/263902.html
