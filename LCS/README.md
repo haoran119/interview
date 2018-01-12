@@ -1,3 +1,3 @@
-# interview-summary-of-C-CPP
-面试题总结之C/C++
-http://www.cnblogs.com/pegasus923/p/5558919.html
+# LCS
+最长公共子串与最长公共子序列
+http://www.cnblogs.com/pegasus923/p/7573973.html
