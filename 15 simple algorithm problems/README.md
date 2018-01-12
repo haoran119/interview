@@ -1,3 +1,2 @@
-# interview-summary-of-C-CPP
-面试题总结之C/C++
-http://www.cnblogs.com/pegasus923/p/5558919.html
+# 学习笔记之15道简单算法题
+http://www.cnblogs.com/pegasus923/p/5574944.html
