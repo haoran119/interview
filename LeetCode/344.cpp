@@ -1,37 +1,50 @@
+//
+//  main.cpp
+//  LeetCode
+//
+//  Created by Hao on 2017/3/16.
+//  Copyright © 2017年 Hao. All rights reserved.
+//
+
 #include <iostream>
-#include <string>
+#include <vector>
 using namespace std;
 
 class Solution {
 public:
+    // reverse
     string reverseString(string s) {
-        int i = 0, j = s.length() - 1;
-        char* sTemp = (char*)s.c_str();
-        char temp;
+        string sr = s;
         
-        while (i < j)
-        {
-//            swap(s[i++], s[j--]);
-            temp = sTemp[i];
-            sTemp[i] = sTemp[j];
-            sTemp[j] = temp;
-            i++;
-            j--;
-        }
+        reverse(sr.begin(), sr.end());
         
-        return (string)sTemp;
+        return sr;
+    }
+    
+    // swap
+    string reverseString2(string s) {
+        for (int i = 0; i < s.size() / 2; i ++)
+            swap(s.at(i), s.at(s.size() - 1 - i));
+        
+        return s;
     }
 };
 
-int main ()
+int main(int argc, char* argv[])
 {
-    Solution testSolution;
-    string result = testSolution.reverseString("hello");    
+    Solution    testSolution;
     
-    cout << result << endl;
+    vector<string> strs {"", "hello", "a.b,."};
 
-    char ch;
-    cin >> ch;
+    /*
+     ""
+     "olleh"
+     ".,b.a"
+     */
+    for (auto s : strs) {
+        cout << "\"" << testSolution.reverseString(s) << "\"" << endl;
+        cout << "\"" << testSolution.reverseString2(s) << "\"" << endl;
+    }
     
     return 0;
 }
