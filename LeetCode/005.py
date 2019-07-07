@@ -12,7 +12,7 @@ class Solution:
         
         while i < n_s:
             if n_s - i <= maxlen / 2:
-                break;
+                break
                 
             left = right = i
             
