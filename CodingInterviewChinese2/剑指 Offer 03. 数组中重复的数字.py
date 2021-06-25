@@ -46,9 +46,51 @@ class Solution(object):
 
         return -1
 
+    # This method fails for [0, 1, 2, 0, 4, 5, 6, 7, 8, 9].
+    # Expected result 0, but actual result -1.
+    def findRepeatNumber2(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+
+        if nums is None:
+            return -1
+
+        start = 0
+        end = len(nums) - 1
+
+        def countRange(nums, length, start, end):
+            if nums is None:
+                return 0
+
+            count = 0
+            for i in range(length):
+                if (nums[i] >= start and nums[i] <= end):
+                    count += 1
+
+            return count
+
+        while end >= start:
+            # Need () for operator >>
+            middle = (int)(((end - start) >> 1) + start)
+
+            count = countRange(nums, len(nums), start, middle)
+
+            if end == start:
+                if count > 1:
+                    return start
+                else:
+                    break
+
+            if count > middle - start + 1:
+                end = middle
+            else:
+                start = middle + 1
+
+        return -1
+
 
 mySolution = Solution()
-
-result = mySolution.findRepeatNumber([2, 3, 1, 0, 2, 5, 3])
-
+result = mySolution.findRepeatNumber([0, 1, 2, 0, 4, 5, 6, 7, 8, 9])
 print(result)
