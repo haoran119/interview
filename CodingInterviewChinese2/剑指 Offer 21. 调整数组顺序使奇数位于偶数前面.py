@@ -28,7 +28,8 @@ class Solution:
 
         return nums
 
+
 mySolution = Solution()
-input = [1,2,3,4]
+input = [1, 2, 3, 4]
 result = mySolution.exchange(input)
 print(result)
