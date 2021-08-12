@@ -7,7 +7,7 @@
 * Topics tagged under "amazon" | LeetCode Discuss
   * [Interview Question - LeetCode Discuss](https://leetcode.com/discuss/interview-question/?currentPage=1&orderBy=hot&query=)
 
-## RESOURCES
+## Resources
 
 * [LeetCode解题的常见模式套路](https://mp.weixin.qq.com/s/BPZLCZoTxlFJOjE0jquoHw)
 * [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions)
@@ -22,7 +22,7 @@
   * [Introduction - algorithm-pattern (gitbook.io)](https://greyireland.gitbook.io/algorithm-pattern/)
 * [有了这套模板，再也不用担心我刷不动 LeetCode 了 (qq.com)](https://mp.weixin.qq.com/s/lPfR049hwgnpnIvC4LYF6g)
 
-## ALGORITHMS
+## Algorithms
 
 ### Array
 
@@ -92,8 +92,8 @@
 | - | - | - | - | - | - | - |
 |0055|	[LeetCode 55. Jump Game](https://www.cnblogs.com/pegasus923/p/11494059.html)	|Python	||| 	 	Medium	 |
 |0062|	[Leetcode 62. Unique Paths](https://www.cnblogs.com/pegasus923/p/11519735.html) |	Python 	||| 	 	Medium 	 |
-|0322|	[Leetcode 322. Coin Change](https://www.cnblogs.com/pegasus923/p/11533290.html) |	Python 	||| 	 	Medium 	 |
 |0300|	[Leetcode 300. Longest Increasing Subsequence](https://www.cnblogs.com/pegasus923/p/11536482.html) |	Python 	||| 	 	Medium 	 |
+|0322|	[Leetcode 322. Coin Change](https://www.cnblogs.com/pegasus923/p/11533290.html) |	Python 	||| 	 	Medium 	 |
 
 ### Design
 | #	   | Title	            | Solution	| Time	| Space	| Difficulty	| Note | 
