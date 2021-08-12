@@ -106,8 +106,7 @@
 * [LeetCode 力扣官方题解 | 468.验证 IP 地址 (qq.com)](https://mp.weixin.qq.com/s/wqgMd0g-LomOqBIAgv5eZA)
 
 * [LeetCode 力扣官方题解 | 540. 有序数组中的单一元素 (qq.com)](https://mp.weixin.qq.com/s/BABenrzm5ZWYhrs9s8DdMQ)
-
-* [LeetCode 图解 | 540. 有序数组中的单一元素 (qq.com)](https://mp.weixin.qq.com/s/wH5z9sQ7Ruz0ymZIPii6qQ)
+  * [LeetCode 图解 | 540. 有序数组中的单一元素 (qq.com)](https://mp.weixin.qq.com/s/wH5z9sQ7Ruz0ymZIPii6qQ)
 
 ## Dynamic Programming
 
