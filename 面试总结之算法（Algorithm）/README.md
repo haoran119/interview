@@ -24,8 +24,8 @@
   * [50+ Data Structure and Algorithms Interview Questions for Programmers | Hacker Noon](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 * [万字总结：如何全方位的准备数据结构和算法？ (qq.com)](https://mp.weixin.qq.com/s/SQO3JSZn5r3k8FIccGyAyA)
 
-* 准备程序员面试？你需要了解这 14 种编程面试模式
-  * [Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively (educative.io)](https://www.educative.io/courses/grokking-the-coding-interview)
+* [Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively (educative.io)](https://www.educative.io/courses/grokking-the-coding-interview)
+  * 准备程序员面试？你需要了解这 14 种编程面试模式
 * [这 3 个学数据结构和算法的网站，相信你也会喜欢的！ (qq.com)](https://mp.weixin.qq.com/s/wzhYMgnWiez_uC_W68fX3Q)
   * 有了这些可视化工具之后，我们就可以更简单的学习算法了，这三个网站各有春秋，你可以使用 Data Structure Visualizations 来了解数据结构，使用 VisuAlgo 和 algorithm-visualizer 来查看算法的具体执行过程，并使用 algorithm-visualizer 来查看算法的具体实现代码，真是非常方便。
   * [Data Structure Visualization (usfca.edu)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
