@@ -3,6 +3,7 @@
 * [学习笔记之LeetCode - 浩然119 - 博客园 (cnblogs.com)](https://www.cnblogs.com/pegasus923/p/5528520.html)
 
 * [学习笔记之15道简单算法题 - 浩然119 - 博客园 (cnblogs.com)](https://www.cnblogs.com/pegasus923/p/5574944.html)
+* [学习笔记之Problem Solving with Algorithms and Data Structures using Python - 浩然119 - 博客园 (cnblogs.com)](https://www.cnblogs.com/pegasus923/p/10454395.html)
 
 * [【ZZ】每个程序员都应该收藏的算法复杂度速查表 - 浩然119 - 博客园 (cnblogs.com)](https://www.cnblogs.com/pegasus923/archive/2013/05/05/3060985.html)
 
