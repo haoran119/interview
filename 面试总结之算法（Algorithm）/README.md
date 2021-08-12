@@ -111,102 +111,104 @@
 
 ## Dynamic Programming
 
-* [最长公共子串与最长公共子序列 - 浩然119 - 博客园 (cnblogs.com)
+* [最长公共子串与最长公共子序列 - 浩然119 - 博客园 (cnblogs.com)](https://www.cnblogs.com/pegasus923/p/7573973.html)
 
-* [LeetCode 例题精讲 | 15 最长公共子序列：二维动态规划的解法 (qq.com)
+* [LeetCode 例题精讲 | 15 最长公共子序列：二维动态规划的解法 (qq.com)](https://mp.weixin.qq.com/s/5D-6Ig4VbrMW44RTfdpBmQ)
 
-* [最长公共前缀短语 - 浩然119 - 博客园 (cnblogs.com)
+* [最长公共前缀短语 - 浩然119 - 博客园 (cnblogs.com)](https://www.cnblogs.com/pegasus923/p/5602046.html)
 
-* [什么是动态规划（Dynamic Programming）？动态规划的意义是什么？ (qq.com)
+* [什么是动态规划（Dynamic Programming）？动态规划的意义是什么？ (qq.com)](https://mp.weixin.qq.com/s/Yny8ZDmGxkpzZK2efxBPBg)
 
-* [有了四步解题法模板，再也不害怕动态规划！ (qq.com)
+* [有了四步解题法模板，再也不害怕动态规划！ (qq.com)](https://mp.weixin.qq.com/s/erJPc8Xx9BBXY1ZiEXVvKg)
 
-* [（进阶版）有了四步解题法模板，再也不害怕动态规划！ (qq.com)
+* [（进阶版）有了四步解题法模板，再也不害怕动态规划！ (qq.com)](https://mp.weixin.qq.com/s/15RW2DstBNXNFz7xuzbDig)
 
-* [（再进阶版）有了四步解题法模板，再也不害怕动态规划！ (qq.com)
+* [（再进阶版）有了四步解题法模板，再也不害怕动态规划！ (qq.com)](https://mp.weixin.qq.com/s/RPBRysbX7wgW_vnPNqloYA)
 
-* [再来聊一聊「动态规划」 (qq.com)
+* [再来聊一聊「动态规划」 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247485757&idx=2&sn=b137bbccad93403d6c7a55ff214b4396&chksm=fa0e66bccd79efaa1c6c8720758eaa5a1ac49f7f45670ca36da2e3b6d95f3ad751abe545395d&mpshare=1&scene=24&srcid=&key=b1719993cc296ec426eb9f148e357d50979a5020599b5af55de04ed242ee1b4743cb0ad002068b797e2cb5c56bdd9e7554b8969e5a6c38c0ff16fb79a54c4073c6f4d4d2aeaaaabfc5b28140225d1921&ascene=14&uin=MTMzMzc3MjY4MQ%3D%3D&devicetype=Windows+10&version=62060833&lang=en&pass_ticket=tT3maEfznKd3xtVT4L8%2Bl%2B2KKdhrJZ3ERaWEoIpqIMB2I2ssKo%2BTfx0v80L7rMTL)
 
-* [An intro to Algorithms: Dynamic Programming (freecodecamp.org)
-* [大厂动态规划面试汇总，重量级干货，彻夜整理 (qq.com)
+* [An intro to Algorithms: Dynamic Programming (freecodecamp.org)](https://www.freecodecamp.org/news/an-intro-to-algorithms-dynamic-programming-dd00873362bb/)
+  * 拒绝遗忘：高效的动态规划算法
+* [大厂动态规划面试汇总，重量级干货，彻夜整理 (qq.com)](https://mp.weixin.qq.com/s/DXlZ-ss9OTHbopJu7UciyQ)
 
-* [动态规划详解 (qq.com)
+* [动态规划详解 (qq.com)](https://mp.weixin.qq.com/s/Hapt0ieHNcznLiQBnEgzeA)
 
-* [最长公共子串求解套路 (qq.com)
+* [最长公共子串求解套路 (qq.com)](https://mp.weixin.qq.com/s/N3OVyLkg6nYZ4wPLjGiKeg)
 
-* [万字长文！动态规划的终极难题：字符匹配类 (qq.com)
+* [万字长文！动态规划的终极难题：字符匹配类 (qq.com)](https://mp.weixin.qq.com/s/3ttU2ETsWUvWDlS0tVE-nQ)
 
-* [动态规划的实际应用：图片压缩算法 (qq.com)
+* [动态规划的实际应用：图片压缩算法 (qq.com)](https://mp.weixin.qq.com/s/aecCjqh2a7KWt-VVj7GtGQ)
 
-* [图解：最短路径之迪杰斯特拉算法 (qq.com)
+* [图解：最短路径之迪杰斯特拉算法 (qq.com)](https://mp.weixin.qq.com/s/vYEu2kXv_FLWHozfEfsZcw)
 
-* [动态规划之空间优化与总结回顾 (qq.com)
+* [动态规划之空间优化与总结回顾 (qq.com)](https://mp.weixin.qq.com/s/zKjULzepeBRlQLJoJHynXQ)
 
-* [一只青蛙跳出来的分治法、回溯法与动态规划 (qq.com)
+* [一只青蛙跳出来的分治法、回溯法与动态规划 (qq.com)](https://mp.weixin.qq.com/s/SvKjk1-Vl1L_67qGeQ2LeA)
 
-* [经典动态规划：高楼扔鸡蛋 (qq.com)
+* [经典动态规划：高楼扔鸡蛋 (qq.com)](https://mp.weixin.qq.com/s/7PEBnUfIpiuw26lVeihlhA)
 
-* [动态规划之博弈问题 (qq.com)
+* [动态规划之博弈问题 (qq.com)](https://mp.weixin.qq.com/s/98tatS6gOi2TnqopUT7Zpg)
 
-* [深度解析「正则表达式匹配」：从暴力解法到动态规划 (qq.com)
+* [深度解析「正则表达式匹配」：从暴力解法到动态规划 (qq.com)](https://mp.weixin.qq.com/s/ZoytuPt5dfP5pMODbuKnCQ)
 
-* [如何编程获得最多的年终红包奖？ (qq.com)
+* [如何编程获得最多的年终红包奖？ (qq.com)](https://mp.weixin.qq.com/s/la3OFcBUh57KHgVwqIFWeQ)
 
-* [漫画：寻找股票买入卖出的最佳时机（动态规划） (qq.com)
+* [漫画：寻找股票买入卖出的最佳时机（动态规划） (qq.com)](https://mp.weixin.qq.com/s/Apy2COrqIEpxxMxqLTDCdQ)
 
-* [动态规划只能用来求最值吗？ (qq.com)
+* [动态规划只能用来求最值吗？ (qq.com)](https://mp.weixin.qq.com/s/CbllD3sITvfyVDCvubTh_w)
 
-* [漫画：美团面试题（整数拆分） (qq.com)
+* [漫画：美团面试题（整数拆分） (qq.com)](https://mp.weixin.qq.com/s/BLf4GB303r0FKd2HxL64xw)
 
-* [LeetCode 例题精讲 | 17 动态规划如何拆分子问题，简化思路 (qq.com)
+* [LeetCode 例题精讲 | 17 动态规划如何拆分子问题，简化思路 (qq.com)](https://mp.weixin.qq.com/s/hLzmIz1gRTyvZ2tN4CmtMA)
 
-* [LeetCode 图解 | 70 . 爬楼梯 (qq.com)
+* [LeetCode 图解 | 70 . 爬楼梯 (qq.com)](https://mp.weixin.qq.com/s/zz9nciY1YW8CDdnz7lSdDQ)
 
-* [题解 | 72. 编辑距离 (qq.com)
-  * [经典动态规划：编辑距离 (qq.com)
-  * [从外由内剖析一道腾讯面试算法题 (qq.com)
-* [LeetCode 题解 | 279. 完全平方数 (qq.com)
+* [题解 | 72. 编辑距离 (qq.com)](https://mp.weixin.qq.com/s/J_GL3G2Zc28kjNggfLc5cw)
+  * [经典动态规划：编辑距离 (qq.com)](https://mp.weixin.qq.com/s/7bexBHgYeTB1vQEEs1AvUg)
+  * [从外由内剖析一道腾讯面试算法题 (qq.com)](https://mp.weixin.qq.com/s/IiuCPA9HuTZcTGXoa6UNjA)
+* [LeetCode 题解 | 279. 完全平方数 (qq.com)](https://mp.weixin.qq.com/s/EenBUh46Z0p1aK9jNpxA4w)
 
-* [题解 | 300.最长上升子序列 (qq.com)
+* [题解 | 300.最长上升子序列 (qq.com)](https://mp.weixin.qq.com/s/QeZjsVrePGcIrnXd_PLqjg)
 
-* [图解一道腾讯笔试算法题：「最长上升子序列」 (qq.com)
+* [图解一道腾讯笔试算法题：「最长上升子序列」 (qq.com)](https://mp.weixin.qq.com/s/zDDZEeHlMCSPxSc4euKT4w)
 
-* [LeetCode 题解 | 338.比特位计数 (qq.com)
+* [LeetCode 题解 | 338.比特位计数 (qq.com)](https://mp.weixin.qq.com/s/hLQq-nrf9qFYFV6ExA9w-g)
 
-* [LeetCode 力扣官方题解 | 518. 零钱兑换 II (qq.com)
+* [LeetCode 力扣官方题解 | 518. 零钱兑换 II (qq.com)](https://mp.weixin.qq.com/s/PHHU7N2tJ1ujLpThPGheNA)
 
-* [LeetCode 力扣官方题解 | 664. 奇怪的打印机 (qq.com)
+* [LeetCode 力扣官方题解 | 664. 奇怪的打印机 (qq.com)](https://mp.weixin.qq.com/s/yp3X5QpCM9XfaqTtJiFyKg)
 
-* [LeetCode 力扣官方题解 | 1356. 根据数字二进制下 1 的数目排序 (qq.com)
+* [LeetCode 力扣官方题解 | 1356. 根据数字二进制下 1 的数目排序 (qq.com)](https://mp.weixin.qq.com/s/wUkL7A9Ha_ypc7iYLy0tFA)
 
 ## Greedy
 
-* [这几道经典例题帮你轻松搞透贪心算法 (qq.com)
+* [这几道经典例题帮你轻松搞透贪心算法 (qq.com)](https://mp.weixin.qq.com/s/4GKIwV34Zp4W1VFTwhx-uw)
 
-* [超详细！图解「合并 K 个排序链表」 (qq.com)
+* [超详细！图解「合并 K 个排序链表」 (qq.com)](https://mp.weixin.qq.com/s/HfhU02afE-3BDgy1EegzWQ)
 
-* [初识背包问题之 「 0-1 背包 」 (qq.com)
+* [初识背包问题之 「 0-1 背包 」 (qq.com)](https://mp.weixin.qq.com/s/iLT5o51aIzf25wn9XrHnsg)
 
-* [漫画：去掉一个数，如何让剩余的数乘积最大？ (qq.com)
+* [漫画：去掉一个数，如何让剩余的数乘积最大？ (qq.com)](https://mp.weixin.qq.com/s/zd0kpk6CulteY-4z5Nxtdw)
 
-* [LeetCode 一题多解 | 53. 最大子数组和：五种解法完全手册 (qq.com)
+* [LeetCode 一题多解 | 53. 最大子数组和：五种解法完全手册 (qq.com)](https://mp.weixin.qq.com/s/xWEDQgF-wcXx8a0b-6Sasw)
 
-* [题解 | 778.水位上升的泳池中游泳 (qq.com)
+* [题解 | 778.水位上升的泳池中游泳 (qq.com)](https://mp.weixin.qq.com/s/ZdF-JDoar4mjVElSVAEkPw)
 
-* [LeetCode 力扣官方题解 | 781. 森林中的兔子 (qq.com)
+* [LeetCode 力扣官方题解 | 781. 森林中的兔子 (qq.com)](https://mp.weixin.qq.com/s/XWQK1KF0m8JcuvdPUgQNCA)
 
-* [LeetCode 力扣官方题解 | 860. 柠檬水找零 (qq.com)
+* [LeetCode 力扣官方题解 | 860. 柠檬水找零 (qq.com)](https://mp.weixin.qq.com/s/ckWhyEK5rUa5kAPWm_84bA)
 
-* [LeetCode 力扣官方题解 | 861. 翻转矩阵后的得分 (qq.com)
+* [LeetCode 力扣官方题解 | 861. 翻转矩阵后的得分 (qq.com)](https://mp.weixin.qq.com/s/rACj3LBiWQy-NRnBqQv-xw)
 
 ## Math
 
 * 估算2^24
-2^10 = 1024 ~ 10^3
+
+> 2^10 = 1024 ~ 10^3
 2^24 ~ 2^4 * 10^3 * 10^3 ~ 16 * 10^6
 
 * 移动1位数字使等式成立3013=10
-0^3013=1
+> 0^3013=1
 
 * [估算悉尼有多少辆Taxi
 
