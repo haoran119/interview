@@ -26,9 +26,9 @@
 
 ### Array
 
-| #	| Title	| Solution	| Time	| Space	| Difficulty	| Note | 
+| #	   | Title	            | Solution	| Time	| Space	| Difficulty	| Note | 
+| 0015	| Leetcode 15. 3Sum	| Python	  |      |  	 	  | Medium     |      | 
 
-0015	Leetcode 15. 3Sum	Python	 	 	Medium 	 
 0026	LeetCode 26. Remove Duplicates from Sorted Array 	C++	 	 	Easy	 
  	 	 	 	 	 	 
 0073 	Leetcode 73. Set Matrix Zeroes 	Python	 	 	Medium	 
