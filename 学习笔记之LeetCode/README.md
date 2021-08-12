@@ -36,132 +36,21 @@
 ### Strings 
 | #	   | Title	            | Solution	| Time	| Space	| Difficulty	| Note | 
 | - | - | - | - | - | - | - |
-|0003	|Leetcode 3. Longest Substring Without Repeating Characters |Python | | | Medium |
-|0005 |LeetCode 5. Longest Palindromic Substring |C++ / Python | | | Medium |
-| 0007 |LeetCode 7. Reverse Integer |C++ |||Easy |
-
- 
-
-0008
-
-LeetCode 8. String to Integer (atoi)
-
-C++ 
-
- 
-
- 
-
-Easy 
-
- 
-
-0014
-
-LeetCode 14. Longest Common Prefix
-
-C++ 
-
- 
-
- 
-
-Easy 
-
- 
-
-0028
-
-LeetCode 28. Implement strStr()
-
-C++ 
-
- 
-
- 
-
-Easy 
-
- 
-
-0038
-
-LeetCode 38. Count and Say
-
-C++ 
-
- 
-
- 
-
-Easy 
-
- 
-
-0049
-
-LeetCode 49. Group Anagrams
-
-C++
-
- 
-
- 
-
-Medium
-
- 
-
-0125
-
-LeetCode 125. Valid Palindrome
-
-C++ 
-
- 
-
- 
-
-Easy 
-
- 
-
-0242
-
-LeetCode 242. Valid Anagram
-
-C++ 
-
- 
-
- 
-
-Easy 
-
- 
-
-0344
-
-LeetCode 344. Reverse String 
-
-C++ 
-
- 
-
- 
-
-Easy 
-
- 
-
-0387 
-
-LeetCode 387. First Unique Character in a String 
-
-C++ 	 	 	Easy 	 
+|0003|Leetcode 3. Longest Substring Without Repeating Characters |Python | | | Medium |
+|0005|LeetCode 5. Longest Palindromic Substring |C++ / Python | | | Medium |
+|0007|LeetCode 7. Reverse Integer |C++ | | |Easy |
+|0008|LeetCode 8. String to Integer (atoi)|C++| | |Easy |
+|0014|LeetCode 14. Longest Common Prefix|C++| | | Easy |
+|0028|LeetCode 28. Implement strStr()|C++ | | |Easy |
+|0038|LeetCode 38. Count and Say|C++ | | |Easy |
+|0049|LeetCode 49. Group Anagrams|C++| | |Medium|
+|0125|LeetCode 125. Valid Palindrome|C++ | | |Easy |
+|0242|LeetCode 242. Valid Anagram|C++ | | |Easy |
+|0344|LeetCode 344. Reverse String |C++ | | |Easy |
+|0387 |LeetCode 387. First Unique Character in a String |C++ | | |	 	 	Easy 	 |
  	 	 	 	 	 	 
 
-Linked List
+### Linked List
 #	Title	Solution	Time	Space	Difficulty	Note
 0002	Leetcode 2. Add Two Numbers	Python	 	 	Medium	 
 0160	Leetcode 160. Intersection of Two Linked Lists	Python	 	 	Easy	 
