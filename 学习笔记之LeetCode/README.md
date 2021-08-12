@@ -36,44 +36,9 @@
 ### Strings 
 | #	   | Title	            | Solution	| Time	| Space	| Difficulty	| Note | 
 | - | - | - | - | - | - | - |
-0003	
-Leetcode 3. Longest Substring Without Repeating Characters 
-
-Python 
-
- 
-
- 
-
-Medium 
-
- 
-
-0005
-
-LeetCode 5. Longest Palindromic Substring
-
-C++ / Python 
-
- 
-
- 
-
-Medium 
-
- 
-
-0007
-
-LeetCode 7. Reverse Integer
-
-C++ 
-
- 
-
- 
-
-Easy 
+|0003	|Leetcode 3. Longest Substring Without Repeating Characters |Python | | | Medium |
+|0005 |LeetCode 5. Longest Palindromic Substring |C++ / Python | | | Medium |
+| 0007 |LeetCode 7. Reverse Integer |C++ |||Easy |
 
  
 
