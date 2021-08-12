@@ -211,104 +211,104 @@
 * 移动1位数字使等式成立3013=10
 > 0^3013=1
 
-* [估算悉尼有多少辆Taxi
+* 估算悉尼有多少辆Taxi
 
-* [刷算法题必备的数学考点汇总 (qq.com)
+* [刷算法题必备的数学考点汇总 (qq.com)](https://mp.weixin.qq.com/s/TdvRLCr6bzGT_k0D8Fv4Sg)
 
-* [刷算法题必备的数学考点汇总（2） (qq.com)
+* [刷算法题必备的数学考点汇总（2） (qq.com)](https://mp.weixin.qq.com/s/INpy-GVMz7ny4zHcVwLnGw)
 
-* [面试必考的「矩阵快速幂」考点汇总 (qq.com)
+* [面试必考的「矩阵快速幂」考点汇总 (qq.com)](https://mp.weixin.qq.com/s/mThDMnrhkK5EBSwgSgSSEA)
 
-* [面试官问小灰：如何用程序判断质数？ (qq.com)
+* [面试官问小灰：如何用程序判断质数？ (qq.com)](https://mp.weixin.qq.com/s/yiHoqAKNJ8l200T7_Hp-Eg)
 
-* [巧用数学 AC 算法面试题 (qq.com)
+* [巧用数学 AC 算法面试题 (qq.com)](https://mp.weixin.qq.com/s/ivft452XN_fsg-n3v8W3ew)
 
-* [两分钟看完一道数学思想的算法题 (qq.com)
+* [两分钟看完一道数学思想的算法题 (qq.com)](https://mp.weixin.qq.com/s/ZKl_TXJ6BawcotuX-toYiA)
 
-* [「算法入门笔记」卡特兰数 (qq.com)
+* [「算法入门笔记」卡特兰数 (qq.com)](https://mp.weixin.qq.com/s/U7bWSMz15hV1n7YxNFBGZw)
 
-* [图解算法：摘取位运算的王冠「八皇后问题」！ (qq.com)
+* [图解算法：摘取位运算的王冠「八皇后问题」！ (qq.com)](https://mp.weixin.qq.com/s/f2Xrgd1cnCJ8WfQXnbznSw)
 
-* [五分钟小知识：如何用算法高效寻找素数？ (qq.com)
+* [五分钟小知识：如何用算法高效寻找素数？ (qq.com)](https://mp.weixin.qq.com/s/eaoo0shtnVEGqRtfhtOaIA)
 
-* [题解 | 66. 加一 (qq.com)
+* [题解 | 66. 加一 (qq.com)](https://mp.weixin.qq.com/s/WExIPRQ-VpIXDkN7ai21Nw)
 
-* [【LeetCode】超简单！猜数字游戏！ (qq.com)
+* [【LeetCode】超简单！猜数字游戏！ (qq.com)](https://mp.weixin.qq.com/s/E7nnaJDqeubADaMHCHmsFw)
 
-* [LeetCode 图解 | 191.位 1 的个数 (qq.com)
+* [LeetCode 图解 | 191.位 1 的个数 (qq.com)](https://mp.weixin.qq.com/s/5pO9WhOHuP_Qjmt02DdzBQ)
 
-* [LeetCode 题解 | 371.两整数之和 (qq.com)
+* [LeetCode 题解 | 371.两整数之和 (qq.com)](https://mp.weixin.qq.com/s/b6RaOvXB1SaaH-TWNRrstA)
 
-* [画解算法：458.可怜的小猪 (qq.com)
+* [画解算法：458.可怜的小猪 (qq.com)](https://mp.weixin.qq.com/s/UjCVpF_g9qlk0WUg2uJW7A)
 
-* [深入 LeetCode 470 了解拒绝采样和求期望法，再挑战一道经典概率面试题 (qq.com)
+* [深入 LeetCode 470 了解拒绝采样和求期望法，再挑战一道经典概率面试题 (qq.com)](https://mp.weixin.qq.com/s/rsD6JZ4nqkFJBtjIVhEogg)
 
-* [又一道可以投机取巧的算法题：完美数 (qq.com)
+* [又一道可以投机取巧的算法题：完美数 (qq.com)](https://mp.weixin.qq.com/s/O9tbFEAQvaATC8KeMiD4xA)
 
-* [使用位运算处理一道难题：获取所有钥匙的最短路径 (qq.com)
+* [使用位运算处理一道难题：获取所有钥匙的最短路径 (qq.com)](https://mp.weixin.qq.com/s/2NPKhUTCAYXwGTRlz5iB-Q)
 
-* [LeetCode 力扣官方题解 | 810. 黑板异或游戏 (qq.com)
+* [LeetCode 力扣官方题解 | 810. 黑板异或游戏 (qq.com)](https://mp.weixin.qq.com/s/0XDLD70xoAcxPzgQ0SismQ)
 
 ## Shuffling（洗牌算法）
 
-* [Knuth 高效洗牌算法 (qq.com)
+* [Knuth 高效洗牌算法 (qq.com)](https://mp.weixin.qq.com/s/JQzSHo6p4-95W_jG6XNNng)
 
-* [网易游戏面试题：如何设计一个公平的洗牌算法 (qq.com)
+* [网易游戏面试题：如何设计一个公平的洗牌算法 (qq.com)](https://mp.weixin.qq.com/s/cQDcgwKNYEXbXBXE-kZG8A)
 
-* [这或许是讲解 Knuth 洗牌算法最好的文章 (qq.com)
+* [这或许是讲解 Knuth 洗牌算法最好的文章 (qq.com)](https://mp.weixin.qq.com/s/OipavTRvi98WKLfnSSnJLQ)
 
-* [算法面试题：均分纸牌 (qq.com)
+* [算法面试题：均分纸牌 (qq.com)](https://mp.weixin.qq.com/s/0wQhIPJrd41NxiLkiufBrA)
 
 ## Simulation（模拟）
 
-* [LeetCode 力扣官方题解 | 13. 罗马数字转整数 (qq.com)
+* [LeetCode 力扣官方题解 | 13. 罗马数字转整数 (qq.com)](https://mp.weixin.qq.com/s/Paun2UnlQ1qsr2Um4eVTKA)
 
-* [LeetCode 力扣官方题解 | 57.插入区间 (qq.com)
+* [LeetCode 力扣官方题解 | 57.插入区间 (qq.com)](https://mp.weixin.qq.com/s/wnX1QE0RMikmZ4lyCPDq3Q)
 
 ## Sliding Window（滑动窗口）
 
-* [Find minimum continuous subsequence tags - 浩然119 - 博客园 (cnblogs.com)
+* [Find minimum continuous subsequence tags - 浩然119 - 博客园 (cnblogs.com)](https://www.cnblogs.com/pegasus923/p/8445421.html)
 
-* [Find substring with K-1 distinct characters - 浩然119 - 博客园 (cnblogs.com)
+* [Find substring with K-1 distinct characters - 浩然119 - 博客园 (cnblogs.com)](https://www.cnblogs.com/pegasus923/p/8444985.html)
 
-* [Find substring with K distinct characters - 浩然119 - 博客园 (cnblogs.com)
+* [Find substring with K distinct characters - 浩然119 - 博客园 (cnblogs.com)](https://www.cnblogs.com/pegasus923/p/8444653.html)
 
-* [An Introduction to Sliding Window Algorithms | by Jordan Moore | Level Up Coding (gitconnected.com)
+* [An Introduction to Sliding Window Algorithms | by Jordan Moore | Level Up Coding (gitconnected.com)](https://levelup.gitconnected.com/an-introduction-to-sliding-window-algorithms-5533c4fe1cc7#:~:text=The%20Sliding%20Window%20algorithm%20is,capture%20different%20portions%20of%20it.)
 
-* [Window Sliding Technique - GeeksforGeeks
+* [Window Sliding Technique - GeeksforGeeks](https://www.geeksforgeeks.org/window-sliding-technique/)
 
-* [滑动窗口算法最简单的教程 (qq.com)
+* [滑动窗口算法最简单的教程 (qq.com)](https://mp.weixin.qq.com/s/6bvsHmloepzm0QiOVyDlZA)
 
-* [从简单到复杂，一文带你搞懂滑动窗口在数组及字符串中的应用 (qq.com)
+* [从简单到复杂，一文带你搞懂滑动窗口在数组及字符串中的应用 (qq.com)](https://mp.weixin.qq.com/s/HePUpluEK383x2sD72RIVw)
 
-* [LeetCode .239 滑动窗口最大值 (qq.com)
+* [LeetCode .239 滑动窗口最大值 (qq.com)](https://mp.weixin.qq.com/s/3KcWhQDaKHhcT_fLq6FrDA)
 
-* [LeetCode 题解 | 1297.子串的最大出现次数 (qq.com)
+* [LeetCode 题解 | 1297.子串的最大出现次数 (qq.com)](https://mp.weixin.qq.com/s/_QjdnEZmcUAOpXmh_L0XvQ)
 
-* [LeetCode 力扣官方题解 | 1423. 可获得的最大点数 (qq.com)
+* [LeetCode 力扣官方题解 | 1423. 可获得的最大点数 (qq.com)](https://mp.weixin.qq.com/s/FA08t36LnRAGynVo2znLVg)
 
 ## Sort and Search
 
-* [面试总结之排序算法 - 浩然119 - 博客园 (cnblogs.com)
+* [面试总结之排序算法 - 浩然119 - 博客园 (cnblogs.com)](https://www.cnblogs.com/pegasus923/p/5576819.html)
 
-* [面试总结之查找算法 - 浩然119 - 博客园 (cnblogs.com)
+* [面试总结之查找算法 - 浩然119 - 博客园 (cnblogs.com)](https://www.cnblogs.com/pegasus923/p/5574852.html)
 
 ## Top K
 
-* [五分钟学算法：Top K 问题的两种经典解法 (qq.com)
+* [五分钟学算法：Top K 问题的两种经典解法 (qq.com)](https://mp.weixin.qq.com/s/je3GvIBPLGZz5Pt_TIQ3lA)
 
-* [超详细！详解一道高频算法题：数组中的第 K 个最大元素 (qq.com)
+* [超详细！详解一道高频算法题：数组中的第 K 个最大元素 (qq.com)](https://mp.weixin.qq.com/s/BbakD18k3K35EDDRt6Jm3Q)
 
 ## MISC
 
-* [什么是 P = NP 问题？ (qq.com)
+* [什么是 P = NP 问题？ (qq.com)](https://mp.weixin.qq.com/s/0m1-YCy1tVIX4cZNhppn6Q)
 
-* [一道剑指offer，找到重复的数字 (qq.com)
+* [一道剑指offer，找到重复的数字 (qq.com)](https://mp.weixin.qq.com/s/h67Q_2U24O_zIGxM2GlY8g)
 
-* [LeetCode 图解 | 229.求众数Ⅱ，要求线性时间复杂度？ (qq.com)
+* [LeetCode 图解 | 229.求众数Ⅱ，要求线性时间复杂度？ (qq.com)](https://mp.weixin.qq.com/s/ObO4eQbjp1s1g_WXPkjixQ)
 
-* [「总结」LeetCode 上一行代码就能解决的智力算法题 (qq.com)
+* [「总结」LeetCode 上一行代码就能解决的智力算法题 (qq.com)](https://mp.weixin.qq.com/s/RFEjPq6biGtX3_621BzeVA)
 
-* [超简单的博弈算法题，一行代码解决！ (qq.com)
+* [超简单的博弈算法题，一行代码解决！ (qq.com)](https://mp.weixin.qq.com/s/0u6z02QYj1OpAwf54k8-Dw)
 
-* [一行代码就能解决的智力算法题 (qq.com)
+* [一行代码就能解决的智力算法题 (qq.com)](https://mp.weixin.qq.com/s/u35RGvT5Bc2o7jM-Uu_ZYA)
