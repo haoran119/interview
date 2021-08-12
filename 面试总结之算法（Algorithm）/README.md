@@ -43,8 +43,8 @@
 
 * [算法工程师技术路线图 (qq.com)](https://mp.weixin.qq.com/s/lgy305qFGrGPo6lYnq4vhw)
   * [算法工程师技术路线图 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/192633890)
-* [GitHub 标星 17 万：打破程序员“中年危机”的「编程面试大学」！ (qq.com)
-  * [jwasham/coding-interview-university: A complete computer science study plan to become a software engineer. (github.com)
+* [GitHub 标星 17 万：打破程序员“中年危机”的「编程面试大学」！ (qq.com)](https://mp.weixin.qq.com/s/0usua0aFz-cUDoDVdLvGjA)
+  * [jwasham/coding-interview-university: A complete computer science study plan to become a software engineer. (github.com)](https://github.com/jwasham/coding-interview-university)
 
 ## Backtracking
 * [干货满满！全面详解如何用递归解题！ (qq.com)](https://mp.weixin.qq.com/s/krVKQXbcqdK298rOh0uiFA)
