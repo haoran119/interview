@@ -9,6 +9,7 @@
 
 ## RESOURCES
 
+* [LeetCode解题的常见模式套路](https://mp.weixin.qq.com/s/BPZLCZoTxlFJOjE0jquoHw)
 * [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions)
 * [soulmachine/leetcode: LeetCode题解，151道题完整版](https://github.com/soulmachine/leetcode)
 * [Leetcode：在线编程网站－各大IT公司的笔试面试题](https://blog.csdn.net/huixingshao/article/details/43669987)
