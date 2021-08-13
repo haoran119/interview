@@ -1,5 +1,8 @@
 # 学习笔记之15道简单算法题
-http://www.cnblogs.com/pegasus923/p/5574944.html
+
+* [学习笔记之15道简单算法题 - 浩然119 - 博客园](http://www.cnblogs.com/pegasus923/p/5574944.html)
+* [15道简单算法题](http://www.cnblogs.com/hlxs/archive/2014/06/06/3772333.html)
+* [(●—●) | 剑指Offer_编程题_牛客网](http://www.nowcoder.com/ta/coding-interviews?page=1)
 
 1. 合并排序，将两个已经排序的数组合并成一个数组，其中一个数组能容下两个数组的所有元素;
 2. 合并两个单链表;
