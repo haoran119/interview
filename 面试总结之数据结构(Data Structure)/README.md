@@ -1,4 +1,4 @@
-# 面试总结之数据结构（Data Structure）
+# 面试总结之数据结构(Data Structure)
 
 * [常用数据结构及复杂度 - sangmado - 博客园 (cnblogs.com)](https://www.cnblogs.com/gaochundong/p/3813252.html)
 
