@@ -1,4 +1,4 @@
-# 面试总结之算法 (Algorithm)
+# 面试总结之算法(Algorithm)
 
 * [学习笔记之LeetCode - 浩然119 - 博客园 (cnblogs.com)](https://www.cnblogs.com/pegasus923/p/5528520.html)
 
