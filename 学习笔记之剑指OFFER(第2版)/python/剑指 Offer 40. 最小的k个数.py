@@ -1,5 +1,6 @@
 class Solution:
     # sort
+    # Time O(NlogN) / Space O(logN)
     def getLeastNumbers1(self, arr: List[int], k: int) -> List[int]:
         if not arr or k == 0:
             return []
@@ -9,6 +10,7 @@ class Solution:
         return arr[:k]
 
     # heap
+    # Time O(NlogK) / Space O(K)
     def getLeastNumbers2(self, arr: List[int], k: int) -> List[int]:
         if not arr or k == 0:
             return []
@@ -35,6 +37,9 @@ class Solution:
         return results
 
     # quick sort partition
+    # We don't need the smallest k nums returned in order so we could just return the partition with 
+    # smallest k nums.
+    # Time O(N) / Space O(logN)
     def getLeastNumbers(self, arr: List[int], k: int) -> List[int]:
         if not arr or k == 0:
             return []
@@ -42,26 +47,32 @@ class Solution:
         if k >= len(arr):
             return arr
             
+        # search and return the smallest k nums
         def quick_sort(nums: List[int], left: int, right: int) -> List[int]:
-            # initiate base value
-            i, j, temp = left, right, nums[left]
+            # initiation and use nums[left] as base value
+            i, j = left, right
 
             while i < j:
                 # need to scan from right first
-                while i < j and nums[j] >= temp:
+                while i < j and nums[j] >= nums[left]:
                     j -= 1                
-                while i < j and nums[i] <= temp:
+                while i < j and nums[i] <= nums[left]:
                     i += 1
                 nums[i], nums[j] = nums[j], nums[i]
             
             # place base value on the correct position i
-            nums[i], temp = temp, nums[i]
+            # need to use nums[left] rather than temp to swap two num in list
+            nums[i], nums[left] = nums[left], nums[i]
 
+            # k resides on the left partition
             if k < i:
                 return quick_sort(nums, left, i - 1)
+            # k redides on the right partition
             elif k > i:
                 return quick_sort(nums, i + 1, right)
 
+            # base value is the (k+1)th smallest num now
+            # return its left k nums
             return nums[:k]
         
         return quick_sort(arr, 0, len(arr) - 1)
