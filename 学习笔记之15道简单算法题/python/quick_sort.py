@@ -1,18 +1,33 @@
+from typing import List
+
+
 class Solution:
-    def getLeastNumbers(self, arr: List[int], k: int) -> List[int]:
-        def quick_sort(arr, l, r):
-            # 子数组长度为 1 时终止递归
-            if l >= r: return
-            # 哨兵划分操作（以 arr[l] 作为基准数）
-            i, j = l, r
-            while i < j:
-                while i < j and arr[j] >= arr[l]: j -= 1
-                while i < j and arr[i] <= arr[l]: i += 1
-                arr[i], arr[j] = arr[j], arr[i]
-            arr[l], arr[i] = arr[i], arr[l]
-            # 递归左（右）子数组执行哨兵划分
-            quick_sort(arr, l, i - 1)
-            quick_sort(arr, i + 1, r)
-        
-        quick_sort(arr, 0, len(arr) - 1)
-        return arr[:k]
+    def quick_sort(self, nums: List[int], left: int, right: int):
+        # 子数组长度为 1 时终止递归
+        if left >= right:
+            return
+
+        # 哨兵划分操作（以 nums[left] 作为基准数）
+        i, j = left, right
+        while i < j:
+            while i < j and nums[j] >= nums[left]:
+                j -= 1
+            while i < j and nums[i] <= nums[left]:
+                i += 1
+            nums[i], nums[j] = nums[j], nums[i]
+        nums[left], nums[i] = nums[i], nums[left]
+
+        # 递归左（右）子数组执行哨兵划分
+        self.quick_sort(nums, left, i - 1)
+        self.quick_sort(nums, i + 1, right)
+
+
+if __name__ == '__main__':
+    mySolution = Solution()
+    list_num = [i for i in range(10, 0, -1)]
+
+    print('list_num before quick sort : {}'.format(str(list_num)))
+
+    mySolution.quick_sort(list_num, 0, len(list_num) - 1)
+
+    print('list_num after quick sort : {}'.format(str(list_num)))
