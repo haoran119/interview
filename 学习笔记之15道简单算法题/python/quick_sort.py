@@ -3,11 +3,11 @@ from typing import List
 
 class Solution:
     def quick_sort(self, nums: List[int], left: int, right: int):
-        # 子数组长度为 1 时终止递归
+        # ending condition
         if left >= right:
             return
 
-        # 哨兵划分操作（以 nums[left] 作为基准数）
+        # partition with nums[left] as the base number
         i, j = left, right
         while i < j:
             while i < j and nums[j] >= nums[left]:
@@ -15,9 +15,10 @@ class Solution:
             while i < j and nums[i] <= nums[left]:
                 i += 1
             nums[i], nums[j] = nums[j], nums[i]
+        # place base number on the right position
         nums[left], nums[i] = nums[i], nums[left]
 
-        # 递归左（右）子数组执行哨兵划分
+        # divide and conquer
         self.quick_sort(nums, left, i - 1)
         self.quick_sort(nums, i + 1, right)
 
