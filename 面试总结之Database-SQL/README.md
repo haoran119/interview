@@ -51,6 +51,13 @@
       * A table can have only primary key whereas there can be multiple unique key on a table.
       * A Clustered index automatically created when a primary key is defined whereas Unique key generates the non-clustered index.
 
+|Parameter |	PRIMARY KEY |	UNIQUE KEY|
+|-|-|-|
+|	Basic	|	Used to serve as a unique identifier for each row in a table.	|	Uniquely determines a row which isn’t primary key.|	
+|	NULL value acceptance	|	Cannot accept NULL values.	|	Can accepts NULL values.|	
+|	Number of keys that can be defined in the table	|	Only one primary key	|	More than one unique key|	
+|	Index	|	Creates clustered index	|	Creates non-clustered index|	
+
 * What is User Defined Functions? What kind of User-Defined Functions can be created?
   * User-Defined Functions allow defining its own T-SQL functions that can accept 0 or more parameters and return a single scalar data value or a table data type.
   * Different Kinds of User-Defined Functions created are: 
