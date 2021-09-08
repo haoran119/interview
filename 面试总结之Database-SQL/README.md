@@ -17,7 +17,7 @@
 * [面试官：数据量很大，分页查询很慢，怎么优化？](https://mp.weixin.qq.com/s/sSjhf7B5v7l6HzoWtP9_9Q)
   * http://uusama.com/458.html
 * [面试官：给我讲一下分库分表方案](https://mp.weixin.qq.com/s/RKZKr2uXGyLcIbec5RZ_eg)
-  * [https://www.cnblogs.com/littlecharacter/p/9342129.html
+  * https://www.cnblogs.com/littlecharacter/p/9342129.html
 * [一个高频面试题：怎么保证缓存与数据库的双写一致性？](https://blog.csdn.net/chang384915878/article/details/86756463)
 * [【字节二面】缓存一致性如何保证？ (qq.com)](https://mp.weixin.qq.com/s/-hvhV3GFef4BeDRRUFY6yw)
 * [面试常考！缓存三大问题及解决方案](https://mp.weixin.qq.com/s/HUWuVmfnOBCJJJRt7__EFA)
