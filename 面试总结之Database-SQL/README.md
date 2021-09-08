@@ -22,8 +22,8 @@
 * [【字节二面】缓存一致性如何保证？ (qq.com)](https://mp.weixin.qq.com/s/-hvhV3GFef4BeDRRUFY6yw)
 * [面试常考！缓存三大问题及解决方案](https://mp.weixin.qq.com/s/HUWuVmfnOBCJJJRt7__EFA)
   * https://juejin.im/post/5b604b9ef265da0f62639001
-* [高并发之存储篇：关注下索引原理和优化吧！ (qq.com)
-* [面试官：数据库自增ID用完了会怎么样？ (qq.com)
+* [高并发之存储篇：关注下索引原理和优化吧！ (qq.com)](https://mp.weixin.qq.com/s/xmAhtJXFNkmOR4Cko9e-cQ)
+* [面试官：数据库自增ID用完了会怎么样？ (qq.com)](https://mp.weixin.qq.com/s/iZPBpq2hVL6NdbGz-gcPTw)
 
 ## MYSQL
 * [面试官：谈谈你对MySQL索引的认识？](https://mp.weixin.qq.com/s/NRapquVpiqynt4BOUCwCoQ)
