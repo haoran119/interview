@@ -14,12 +14,12 @@
 * What is Cursor?
   * Cursor is a database object used by applications to manipulate data in a set on a row-by-row basis, instead of the typical SQL commands that operate on all the rows in the set at one time.
   * In order to work with a cursor we need to perform some steps in the following order:
-  * Declare cursor
-  * Open cursor
-  * Fetch row from the cursor
-  * Process fetched row
-  * Close cursor
-  * Deallocate cursor (Read More Here)
+    * Declare cursor
+    * Open cursor
+    * Fetch row from the cursor
+    * Process fetched row
+    * Close cursor
+    * Deallocate cursor (Read More Here)
 * What is Collation?
   * Collation refers to a set of rules that determine how data is sorted and compared. Character data is sorted using rules that define the correct character sequence, with options for specifying case sensitivity, accent marks, kana character types and character width. (Read More Here)
 * What is Difference between Function and Stored Procedure?
