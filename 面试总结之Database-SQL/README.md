@@ -10,47 +10,7 @@
   * 存储为文件
 * lock
   * [What is lock (database)? - SQL Server Comparison Expert](http://www.databasecompare.com/What-is-lock-(database).html)
-* [详解面试中常考的数据库「锁」问题](https://mp.weixin.qq.com/s/QI4ahAkPzrpprLCDDi4oDA)
-* 机器Crash之后数据如何备份恢复？
-* [面试中有哪些经典的数据库问题？ - 数据库开发](https://mp.weixin.qq.com/s/_2YGz3FA3et7KhcOzqM7PA)
-* [腾讯面试：一条SQL语句执行得很慢的原因有哪些？](https://mp.weixin.qq.com/s/2o0iS4LVzl5PDz1zTILnLw)
-* [面试官：数据量很大，分页查询很慢，怎么优化？](https://mp.weixin.qq.com/s/sSjhf7B5v7l6HzoWtP9_9Q)
-  * http://uusama.com/458.html
-* [面试官：给我讲一下分库分表方案](https://mp.weixin.qq.com/s/RKZKr2uXGyLcIbec5RZ_eg)
-  * https://www.cnblogs.com/littlecharacter/p/9342129.html
-* [一个高频面试题：怎么保证缓存与数据库的双写一致性？](https://blog.csdn.net/chang384915878/article/details/86756463)
-* [【字节二面】缓存一致性如何保证？ (qq.com)](https://mp.weixin.qq.com/s/-hvhV3GFef4BeDRRUFY6yw)
-* [面试常考！缓存三大问题及解决方案](https://mp.weixin.qq.com/s/HUWuVmfnOBCJJJRt7__EFA)
-  * https://juejin.im/post/5b604b9ef265da0f62639001
-* [高并发之存储篇：关注下索引原理和优化吧！ (qq.com)](https://mp.weixin.qq.com/s/xmAhtJXFNkmOR4Cko9e-cQ)
-* [面试官：数据库自增ID用完了会怎么样？ (qq.com)](https://mp.weixin.qq.com/s/iZPBpq2hVL6NdbGz-gcPTw)
-
-## MYSQL
-* [面试官：谈谈你对MySQL索引的认识？](https://mp.weixin.qq.com/s/NRapquVpiqynt4BOUCwCoQ)
-* [面试小知识：MySQL索引相关 - 数据库开发](https://mp.weixin.qq.com/s/j-meke0QMqTgPInj118UZA)
-* [面试官：为什么 MySQL 的索引要使用 B+ 树，而不是其它树？比如 B 树？](https://mp.weixin.qq.com/s/k1BqFgc2ck_HR5Q6HmnNWQ)
-  * https://www.cnblogs.com/leefreeman/p/8315844.html
-* [【面试现场】为什么 MySQL 数据库要用B+树存储索引？](https://mp.weixin.qq.com/s/XN8PyiRFOyHAh6HLuTlD1Q)
-* [MySQL 如何查找删除重复行？ - 数据库开发](https://mp.weixin.qq.com/s/qKoXTjdupjY25k6_-7PwxA)
-* [面试官：MySQL 表设计要注意什么？](https://mp.weixin.qq.com/s/TGvLTVUIg6Lam9CfjALLGQ)
-* [MySQL 优化面试解析](https://mp.weixin.qq.com/s/awRZ3fmN879MtuuZ2cb9pw)
-  * http://www.zhenganwen.top/articles/2018/12/25/1565048860202.html
-* [面试 | 巧用 explain 优化 MySQL 语句](https://mp.weixin.qq.com/s/OnfMdisiJ_f-HgIyOvc0qw)
-* [什么是MySQL的执行计划（Explain关键字）？ (qq.com)](https://mp.weixin.qq.com/s/E8wJQvldwEAzxK5mEuFhog)
-* [MySQL 面试，必须掌握的 8 个知识点](https://mp.weixin.qq.com/s/MKOoKuymUr-ZUVOT6jKfQg)
-* [MySQL的COUNT语句](https://mp.weixin.qq.com/s/UZgBdR_j1Oi2KK8XN7tGbQ)
-* [100 道 MySQL 数据库经典面试题解析 (qq.com)](https://mp.weixin.qq.com/s/0Rahp4jZIngs14HFh2mToQ)
-* [很用心的为你写了 9 道 MySQL 面试题 (qq.com)](https://mp.weixin.qq.com/s/6FKthnz2NaykgB1nrGjI4Q)
-* [MySQL 海量数据优化（理论+实战）(qq.com)](https://mp.weixin.qq.com/s/z7iiHa-dLoHf651Gx52SQA)
-* [为什么 MySQL 使用 B+ 树 (qq.com)](https://mp.weixin.qq.com/s/71PL1-0hx7MFwlJhvKLHpg)
-* [Mysql 夺命连环 13 问，你能抗住多少题？ (qq.com)](https://mp.weixin.qq.com/s/ovNswH3FrnqO4RZ7TItRaA)
-* [阿里二面，为什么MySQL选择Repeatable Read作为默认隔离级别？ (qq.com)](https://mp.weixin.qq.com/s/bbtrO4ZP-5KnQ_XWXQh1sA)
-
-## REDIS
-* [Redis 常见面试题请收好 | 原力计划 (qq.com)](https://mp.weixin.qq.com/s/a_OU80touv7RVXosy6YULw)
-* [美团二面：Redis与MySQL双写一致性如何保证？ (qq.com)](https://mp.weixin.qq.com/s/N4LZwRRvj95ZavZewG0adw)
-
-## General Questions of SQL SERVER 
+  * [详解面试中常考的数据库「锁」问题](https://mp.weixin.qq.com/s/QI4ahAkPzrpprLCDDi4oDA)
 * What is Cursor?
   * Cursor is a database object used by applications to manipulate data in a set on a row-by-row basis, instead of the typical SQL commands that operate on all the rows in the set at one time.
   * In order to work with a cursor we need to perform some steps in the following order:
@@ -101,6 +61,44 @@ Foreign keys are both a method of ensuring data integrity and a manifestation of
   * Time-variant, meaning that the changes to the data in the database are tracked and recorded so that reports can be produced showing changes over time;
   * Non-volatile, meaning that data in the database is never over-written or deleted, once committed, the data is static, read-only, but retained for future reporting.
   * Integrated, meaning that the database contains data from most or all of an organization’s operational applications, and that this data is made consistent.
+* 机器Crash之后数据如何备份恢复？
+* [面试中有哪些经典的数据库问题？ - 数据库开发](https://mp.weixin.qq.com/s/_2YGz3FA3et7KhcOzqM7PA)
+* [腾讯面试：一条SQL语句执行得很慢的原因有哪些？](https://mp.weixin.qq.com/s/2o0iS4LVzl5PDz1zTILnLw)
+* [面试官：数据量很大，分页查询很慢，怎么优化？](https://mp.weixin.qq.com/s/sSjhf7B5v7l6HzoWtP9_9Q)
+  * http://uusama.com/458.html
+* [面试官：给我讲一下分库分表方案](https://mp.weixin.qq.com/s/RKZKr2uXGyLcIbec5RZ_eg)
+  * https://www.cnblogs.com/littlecharacter/p/9342129.html
+* [一个高频面试题：怎么保证缓存与数据库的双写一致性？](https://blog.csdn.net/chang384915878/article/details/86756463)
+* [【字节二面】缓存一致性如何保证？ (qq.com)](https://mp.weixin.qq.com/s/-hvhV3GFef4BeDRRUFY6yw)
+* [面试常考！缓存三大问题及解决方案](https://mp.weixin.qq.com/s/HUWuVmfnOBCJJJRt7__EFA)
+  * https://juejin.im/post/5b604b9ef265da0f62639001
+* [高并发之存储篇：关注下索引原理和优化吧！ (qq.com)](https://mp.weixin.qq.com/s/xmAhtJXFNkmOR4Cko9e-cQ)
+* [面试官：数据库自增ID用完了会怎么样？ (qq.com)](https://mp.weixin.qq.com/s/iZPBpq2hVL6NdbGz-gcPTw)
+
+## MYSQL
+* [面试官：谈谈你对MySQL索引的认识？](https://mp.weixin.qq.com/s/NRapquVpiqynt4BOUCwCoQ)
+* [面试小知识：MySQL索引相关 - 数据库开发](https://mp.weixin.qq.com/s/j-meke0QMqTgPInj118UZA)
+* [面试官：为什么 MySQL 的索引要使用 B+ 树，而不是其它树？比如 B 树？](https://mp.weixin.qq.com/s/k1BqFgc2ck_HR5Q6HmnNWQ)
+  * https://www.cnblogs.com/leefreeman/p/8315844.html
+* [【面试现场】为什么 MySQL 数据库要用B+树存储索引？](https://mp.weixin.qq.com/s/XN8PyiRFOyHAh6HLuTlD1Q)
+* [MySQL 如何查找删除重复行？ - 数据库开发](https://mp.weixin.qq.com/s/qKoXTjdupjY25k6_-7PwxA)
+* [面试官：MySQL 表设计要注意什么？](https://mp.weixin.qq.com/s/TGvLTVUIg6Lam9CfjALLGQ)
+* [MySQL 优化面试解析](https://mp.weixin.qq.com/s/awRZ3fmN879MtuuZ2cb9pw)
+  * http://www.zhenganwen.top/articles/2018/12/25/1565048860202.html
+* [面试 | 巧用 explain 优化 MySQL 语句](https://mp.weixin.qq.com/s/OnfMdisiJ_f-HgIyOvc0qw)
+* [什么是MySQL的执行计划（Explain关键字）？ (qq.com)](https://mp.weixin.qq.com/s/E8wJQvldwEAzxK5mEuFhog)
+* [MySQL 面试，必须掌握的 8 个知识点](https://mp.weixin.qq.com/s/MKOoKuymUr-ZUVOT6jKfQg)
+* [MySQL的COUNT语句](https://mp.weixin.qq.com/s/UZgBdR_j1Oi2KK8XN7tGbQ)
+* [100 道 MySQL 数据库经典面试题解析 (qq.com)](https://mp.weixin.qq.com/s/0Rahp4jZIngs14HFh2mToQ)
+* [很用心的为你写了 9 道 MySQL 面试题 (qq.com)](https://mp.weixin.qq.com/s/6FKthnz2NaykgB1nrGjI4Q)
+* [MySQL 海量数据优化（理论+实战）(qq.com)](https://mp.weixin.qq.com/s/z7iiHa-dLoHf651Gx52SQA)
+* [为什么 MySQL 使用 B+ 树 (qq.com)](https://mp.weixin.qq.com/s/71PL1-0hx7MFwlJhvKLHpg)
+* [Mysql 夺命连环 13 问，你能抗住多少题？ (qq.com)](https://mp.weixin.qq.com/s/ovNswH3FrnqO4RZ7TItRaA)
+* [阿里二面，为什么MySQL选择Repeatable Read作为默认隔离级别？ (qq.com)](https://mp.weixin.qq.com/s/bbtrO4ZP-5KnQ_XWXQh1sA)
+
+## REDIS
+* [Redis 常见面试题请收好 | 原力计划 (qq.com)](https://mp.weixin.qq.com/s/a_OU80touv7RVXosy6YULw)
+* [美团二面：Redis与MySQL双写一致性如何保证？ (qq.com)](https://mp.weixin.qq.com/s/N4LZwRRvj95ZavZewG0adw)
 
 ## SQL
 * [破解面试难题8个角度带你解读SQL面试技巧！ (qq.com)](https://mp.weixin.qq.com/s/BvGSzmKBSBBcnS84xh_M7w)
