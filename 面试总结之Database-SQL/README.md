@@ -34,27 +34,27 @@
 * [MySQL 如何查找删除重复行？ - 数据库开发](https://mp.weixin.qq.com/s/qKoXTjdupjY25k6_-7PwxA)
 * [面试官：MySQL 表设计要注意什么？](https://mp.weixin.qq.com/s/TGvLTVUIg6Lam9CfjALLGQ)
 * [MySQL 优化面试解析](https://mp.weixin.qq.com/s/awRZ3fmN879MtuuZ2cb9pw)
-  * [http://www.zhenganwen.top/articles/2018/12/25/1565048860202.html
+  * http://www.zhenganwen.top/articles/2018/12/25/1565048860202.html
 * [面试 | 巧用 explain 优化 MySQL 语句](https://mp.weixin.qq.com/s/OnfMdisiJ_f-HgIyOvc0qw)
-* [什么是MySQL的执行计划（Explain关键字）？ (qq.com)
+* [什么是MySQL的执行计划（Explain关键字）？ (qq.com)](https://mp.weixin.qq.com/s/E8wJQvldwEAzxK5mEuFhog)
 * [MySQL 面试，必须掌握的 8 个知识点](https://mp.weixin.qq.com/s/MKOoKuymUr-ZUVOT6jKfQg)
 * [MySQL的COUNT语句](https://mp.weixin.qq.com/s/UZgBdR_j1Oi2KK8XN7tGbQ)
-* [100 道 MySQL 数据库经典面试题解析 (qq.com)
-* [很用心的为你写了 9 道 MySQL 面试题 (qq.com)
-* [MySQL 海量数据优化（理论+实战）(qq.com)
-* [为什么 MySQL 使用 B+ 树 (qq.com)
-* [Mysql 夺命连环 13 问，你能抗住多少题？ (qq.com)
-* [阿里二面，为什么MySQL选择Repeatable Read作为默认隔离级别？ (qq.com)
+* [100 道 MySQL 数据库经典面试题解析 (qq.com)](https://mp.weixin.qq.com/s/0Rahp4jZIngs14HFh2mToQ)
+* [很用心的为你写了 9 道 MySQL 面试题 (qq.com)](https://mp.weixin.qq.com/s/6FKthnz2NaykgB1nrGjI4Q)
+* [MySQL 海量数据优化（理论+实战）(qq.com)](https://mp.weixin.qq.com/s/z7iiHa-dLoHf651Gx52SQA)
+* [为什么 MySQL 使用 B+ 树 (qq.com)](https://mp.weixin.qq.com/s/71PL1-0hx7MFwlJhvKLHpg)
+* [Mysql 夺命连环 13 问，你能抗住多少题？ (qq.com)](https://mp.weixin.qq.com/s/ovNswH3FrnqO4RZ7TItRaA)
+* [阿里二面，为什么MySQL选择Repeatable Read作为默认隔离级别？ (qq.com)](https://mp.weixin.qq.com/s/bbtrO4ZP-5KnQ_XWXQh1sA)
 
 ## REDIS
-* [Redis 常见面试题请收好 | 原力计划 (qq.com)
-* [美团二面：Redis与MySQL双写一致性如何保证？ (qq.com)
+* [Redis 常见面试题请收好 | 原力计划 (qq.com)](https://mp.weixin.qq.com/s/a_OU80touv7RVXosy6YULw)
+* [美团二面：Redis与MySQL双写一致性如何保证？ (qq.com)](https://mp.weixin.qq.com/s/N4LZwRRvj95ZavZewG0adw)
 
 ## SQL
-* [破解面试难题8个角度带你解读SQL面试技巧！ (qq.com)
-* [我说 SELECT COUNT(*) 会造成全表扫描 (qq.com)
-* [数据科学家常见的5个SQL面试问题 (qq.com)
-* [经典 SQL 笔试面试题：求解连续区间 (qq.com)
+* [破解面试难题8个角度带你解读SQL面试技巧！ (qq.com)](https://mp.weixin.qq.com/s/BvGSzmKBSBBcnS84xh_M7w)
+* [我说 SELECT COUNT(*) 会造成全表扫描 (qq.com)](https://mp.weixin.qq.com/s/NZjPYa2YA3K7OY_-hqdmhA)
+* [数据科学家常见的5个SQL面试问题 (qq.com)](https://mp.weixin.qq.com/s/7n8EC3qqpZfWa4OybLPCMA)
+* [经典 SQL 笔试面试题：求解连续区间 (qq.com)](https://mp.weixin.qq.com/s/i2gnSquBWh_HKKiy4OUQCQ)
 
 1. 现有一张学生表，有只有一个列是名字，请选出其中的重名的学生的名字
 select name from student group by name having count(*) > 1
