@@ -44,7 +44,13 @@
     * This is a particular case when one table joins to itself, with one or two aliases to avoid confusion. A self join can be of any type, as long as the joined tables are the same. A self join is rather unique in that it involves a relationship with only one table. The common example is when company has a hierarchal reporting structure whereby one member of staff reports to another. Self Join can be Outer Join or Inner Join. (Read More Here)
 * What are primary keys and foreign keys?
   * Primary keys are the unique identifiers for each row. They must contain unique values and cannot be null. Due to their importance in relational databases, Primary keys are the most fundamental of all keys and constraints. A table can have only one Primary key.
-Foreign keys are both a method of ensuring data integrity and a manifestation of the relationship between tables.
+  * Foreign keys are both a method of ensuring data integrity and a manifestation of the relationship between tables.
+  * [Difference between Primary key and Unique key - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-primary-key-and-unique-key/)
+    * Key Differences Between Primary key and Unique key: 
+      * Primary key will not accept NULL values whereas Unique key can accept NULL values.
+      * A table can have only primary key whereas there can be multiple unique key on a table.
+      * A Clustered index automatically created when a primary key is defined whereas Unique key generates the non-clustered index.
+
 * What is User Defined Functions? What kind of User-Defined Functions can be created?
   * User-Defined Functions allow defining its own T-SQL functions that can accept 0 or more parameters and return a single scalar data value or a table data type.
   * Different Kinds of User-Defined Functions created are: 
