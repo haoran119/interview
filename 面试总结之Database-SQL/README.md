@@ -58,6 +58,8 @@
 |	Number of keys that can be defined in the table	|	Only one primary key	|	More than one unique key|	
 |	Index	|	Creates clustered index	|	Creates non-clustered index|	
 
+* How to ensure integrity ?
+  * constraint and foreign keys ?
 * What is User Defined Functions? What kind of User-Defined Functions can be created?
   * User-Defined Functions allow defining its own T-SQL functions that can accept 0 or more parameters and return a single scalar data value or a table data type.
   * Different Kinds of User-Defined Functions created are: 
