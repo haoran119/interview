@@ -78,6 +78,8 @@
   * Integrated, meaning that the database contains data from most or all of an organization’s operational applications, and that this data is made consistent.
 * 机器Crash之后数据如何备份恢复？
 * 大文件如何读取到数据库？
+* 如何分析SQL语句执行很慢？
+  * SQL explain ?
 * [腾讯面试：一条SQL语句执行得很慢的原因有哪些？](https://mp.weixin.qq.com/s/2o0iS4LVzl5PDz1zTILnLw)
 * [面试官：数据量很大，分页查询很慢，怎么优化？](https://mp.weixin.qq.com/s/sSjhf7B5v7l6HzoWtP9_9Q)
   * http://uusama.com/458.html
