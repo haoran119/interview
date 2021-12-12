@@ -1,30 +1,24 @@
 # 面试总结之MISC(操作系统, 网络, 软件开发, 测试, 工具, 系统设计, MISC)
 
 ## 操作系统
-* 解释堆和栈的区别。
 
+* 解释堆和栈的区别。
 * 分配在堆的内存与分配在堆栈的内存有什么不同
   * 分配在堆的内存要手动去释放
 * [大厂面试爱问的「调度算法」，20 张图一举拿下 (qq.com)](https://mp.weixin.qq.com/s/v49BrZhe5BMWjDJn-5FWRg)
-
 * [我和面试官之间关于操作系统的一场对弈！ (qq.com)](https://mp.weixin.qq.com/s/viTFTqsO1TZZgHk6r26LZg)
 
 ### 多线程
+
 * [学习笔记之多线程 - 浩然119 - 博客园 (cnblogs.com)](https://www.cnblogs.com/pegasus923/p/5554565.html)
-
 * [用三个线程按顺序循环打印ABC三个字母 - 浩然119 - 博客园 (cnblogs.com)](https://www.cnblogs.com/pegasus923/p/8575543.html)
-
 * 线程与进程的区别
-
 * 多线程中栈与堆是公有的还是私有的
   * 在多线程环境下，每个线程拥有一个栈和一个程序计数器。栈和程序计数器用来保存线程的执行历史和线程的执行状态，是线程私有的资源。
   * 其他的资源（比如堆、地址空间、全局变量）是由同一个进程内的多个线程共享
 * [mutex - C++ Reference (cplusplus.com)](http://www.cplusplus.com/reference/mutex/mutex/?kw=mutex)
-
 * [condition_variable - C++ Reference (cplusplus.com)](http://www.cplusplus.com/reference/condition_variable/condition_variable/)
-
 * semophore
-
 * deadlock
   * 在引入锁的同时，我们遇到了一个新的问题：死锁(Deadlock)。死锁是指两个或多个线程／进程之间相互阻塞，以至于任何一个都不能继续运行，因此也不能解锁其他线程／进程。例如，线程A占有lock A，并且尝试获取lock B；而线程2占有lock B，尝试获取lock A。此时，两者相互阻塞，都无法继续运行。
   * 总结产生死锁的四个条件(只有当四个条件同时满足时才会产生死锁)：
@@ -38,32 +32,25 @@
     * 仔细地对资源进行动态分配，以避免死锁。
     * 通过破除死锁四个必要条件之一，来防止死锁产生。
 * [记一次腾讯面试：进程之间究竟有哪些通信方式？如何通信？ ---- 告别死记硬背_帅地-CSDN博客](https://blog.csdn.net/m0_37907797/article/details/103188294)
-
 * [4 个场景详解大厂面试中的死锁问题 (qq.com)](https://mp.weixin.qq.com/s/t49aLTN9w-1qNg5_EKpNzA)
-
 * [2 万字长文详解 10 大多线程面试题｜原力计划 (qq.com)](https://mp.weixin.qq.com/s/hq5GbYBe98YsBDNA3u2s5Q)
   * [2020大厂必问面试题(Java多线程)_ZZZhonngger的博客-CSDN博客_大厂多线程面试题](https://blog.csdn.net/weixin_43395911/article/details/104660403)
 * [面试问我，创建多少个线程合适？我该怎么说 (qq.com)](https://mp.weixin.qq.com/s/otLfgYhjh17kOm6zxAhpiw)
-
 * [一文看懂进程和线程调度 (qq.com)](https://mp.weixin.qq.com/s/pKdQu74Sl3PIaKyDlIEExg)
-
 * [线程间到底共享了哪些进程资源？ (qq.com)](https://mp.weixin.qq.com/s/L7-CypKf25bLVzIeStB-sA)
 
 ## 网络 
+
 * [网络协议_百度百科 (baidu.com)](https://baike.baidu.com/item/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/328636?fr=aladdin)
-
 * [网络协议常见面试题集锦 (qq.com)](https://mp.weixin.qq.com/s/_yEqNFbxsIhS_45WKTy9_w)
-
 * TCP/IP
   * [动画讲解TCP](https://mp.weixin.qq.com/s/hBufa_4wwkPxuxcIf6s6hg)
   * [动画讲解 TCP 四次分手过程](https://mp.weixin.qq.com/s/osQceF7Pg1SDMZDAXIniXg)
 * 是否了解应用层通信，通信协议HTTP
-
 * 你一定要知道，关于https的五大误区
   * https://mp.weixin.qq.com/s/bncfDp_Mg54qLL_JBYE20g
   * http://www.d1net.com/security/news/552826.html
 * UDP/IP
-
 * socket
   * [socket（计算机专业术语）_百度百科](https://baike.baidu.com/item/socket/281150?fr=aladdin)
 * [TCP/IP、Http、Socket的区别_百度经验](http://jingyan.baidu.com/article/08b6a591e07ecc14a80922f1.html)
@@ -74,20 +61,18 @@
 * [面试官问我：三次握手与四次挥手是怎么完成的？](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247486377&idx=1&sn=05f19f7854f9e2524219e742e69fee51&chksm=fa0e6428cd79ed3e3b1a9c0f2f2ce9e73c13b4fc2586e7bf96da01e0e1cbb1ac30e4b276e900&mpshare=1&scene=24&srcid=&sharer_sharetime=1567832363410&sharer_shareid=5ed4a849fa42d9599a974fa8eb45e8fa&key=5a37b8e9f2933463a19e893ed135defb0616b130a6c0c3d7bf51b08d053292a643da98040780c4703bc795bfaf4ec690f22ed56aaaae3974bdb5de4130272d9bd0e2abfb7a79732df47daff037a5ce27&ascene=14&uin=MTMzMzc3MjY4MQ%3D%3D&devicetype=Windows+10&version=62060833&lang=en&pass_ticket=tT3maEfznKd3xtVT4L8%2Bl%2B2KKdhrJZ3ERaWEoIpqIMB2I2ssKo%2BTfx0v80L7rMTL)
 * [面试 | 你真的了解 HTTP 头部么？](https://mp.weixin.qq.com/s/Mcbfg1uLwk7pUo8tE48VGA)
 * [看完这篇HTTP，跟面试官扯皮就没问题了 (qq.com)](https://mp.weixin.qq.com/s/F3RoMypV62sjNKNfNJuzug)
-
 * [Cookie、Session、Token那点事儿](https://mp.weixin.qq.com/s/b8h6_3CMlwsE8PtkrPr9FA)
   * https://www.jianshu.com/p/bd1be47a16c1
 * [一文彻底搞懂cookie和session](https://mp.weixin.qq.com/s/5b4h8-N-3HpQz4pL9Dn6Sw)
   * https://juejin.im/post/5b7c1f4d6fb9a019f221ca14
 * [吊打面试官之消息队列基础 (qq.com)](https://mp.weixin.qq.com/s/Tta36pxSIGDvnW_Rb-FkQA)
-
 * [面试官：你连 RESTful 都不知道我怎么敢要你？| 原力计划 (qq.com)](https://mp.weixin.qq.com/s/AzKyyvCQbdoASG5KMKrokg)
+* [面试官：说说你对 RESTful 的理解？](https://mp.weixin.qq.com/s/wtynZ5kw-48tq8PIkBw6Rw)
 
 ## 软件开发
+
 * C# v.s. C++
-
 * Scripting language v.s. Compiling language
-
 * 动态/静态链接库区别
   * 动态链接库：在运行时加载
   * 静态链接库：在编译时直接联到可执行文件中
@@ -139,12 +124,10 @@
   * Java, J2EE, Spring MVC Framework, Bootstrap, Javascript, Angularjs
 
 ## 测试 
+
 * 如何测试一个水杯，记得考虑异常测试
-
 * 常用的测试工具，测试方法 
-
 * 程序crash如何定位检测
-
 * 内存泄露定位 / 监测／防止
   * [内存泄漏_百度百科](https://baike.baidu.com/item/%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F/6181425?fr=aladdin)
   * [内存泄漏以及常见的解决方法 - na_he的专栏 - CSDN博客](http://blog.csdn.net/na_he/article/details/7429171)
@@ -219,4 +202,5 @@
 * [面试官：说说 Spring Cloud 的底层架构原理吧](https://mp.weixin.qq.com/s/eRY3QMHJdLr55Hzxhd-rfA)
 
 ## MISC
+
 * [一起刷题学习 Git/SQL/正则表达式 (qq.com)](https://mp.weixin.qq.com/s/31gpcQkKvy7sMUvEoVyHQw)
