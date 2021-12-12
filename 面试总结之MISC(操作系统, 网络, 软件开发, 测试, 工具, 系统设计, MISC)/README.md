@@ -38,6 +38,7 @@
 * [面试问我，创建多少个线程合适？我该怎么说 (qq.com)](https://mp.weixin.qq.com/s/otLfgYhjh17kOm6zxAhpiw)
 * [一文看懂进程和线程调度 (qq.com)](https://mp.weixin.qq.com/s/pKdQu74Sl3PIaKyDlIEExg)
 * [线程间到底共享了哪些进程资源？ (qq.com)](https://mp.weixin.qq.com/s/L7-CypKf25bLVzIeStB-sA)
+* [Linux系统僵尸进程详解](https://mp.weixin.qq.com/s/pSUkTib5PcInYl-LGXweGw)
 
 ## 网络 
 
