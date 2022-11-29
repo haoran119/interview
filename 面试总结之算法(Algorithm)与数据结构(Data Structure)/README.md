@@ -2,8 +2,9 @@
 
 ## Algorithm
 
-* [学习笔记之LeetCode - 浩然119 - 博客园 (cnblogs.com)](https://www.cnblogs.com/pegasus923/p/5528520.html)
-* [学习笔记之15道简单算法题 - 浩然119 - 博客园 (cnblogs.com)](https://www.cnblogs.com/pegasus923/p/5574944.html)
+* [interview/学习笔记之15道简单算法题 at main · haoran119/interview](https://github.com/haoran119/interview/tree/main/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E4%B9%8B15%E9%81%93%E7%AE%80%E5%8D%95%E7%AE%97%E6%B3%95%E9%A2%98)
+* [interview/学习笔记之LeetCode at main · haoran119/interview](https://github.com/haoran119/interview/tree/main/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E4%B9%8BLeetCode)
+* [interview/学习笔记之剑指OFFER(第2版) at main · haoran119/interview](https://github.com/haoran119/interview/tree/main/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E4%B9%8B%E5%89%91%E6%8C%87OFFER(%E7%AC%AC2%E7%89%88))
 * [学习笔记之Problem Solving with Algorithms and Data Structures using Python - 浩然119 - 博客园 (cnblogs.com)](https://www.cnblogs.com/pegasus923/p/10454395.html)
 * [【ZZ】每个程序员都应该收藏的算法复杂度速查表 - 浩然119 - 博客园 (cnblogs.com)](https://www.cnblogs.com/pegasus923/archive/2013/05/05/3060985.html)
 
