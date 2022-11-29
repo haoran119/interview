@@ -24,12 +24,13 @@
 
 ### Array
 
-| #	   | Title	            | Solution	| Time	| Space	| Difficulty	| Note | 
+| # | Title | Solution	| Time	| Space	| Difficulty	| Note | 
 | - | - | - | - | - | - | - |
-| 0015	| [Leetcode 15. 3Sum](https://www.cnblogs.com/pegasus923/p/11122726.html)	| Python	  |      |  	 	  | Medium     |      | 
-| 0026	| [LeetCode 26. Remove Duplicates from Sorted Array](https://www.cnblogs.com/pegasus923/p/8384530.html) 	| C++	| | | 	 	Easy	|  	 	 	 	 	 	 
-| 0073 |	[Leetcode 73. Set Matrix Zeroes](https://www.cnblogs.com/pegasus923/p/11128473.html) |	Python	| |	| 	Medium	| 
-|0334 	| [Leetcode 334. Increasing Triplet Subsequence](https://www.cnblogs.com/pegasus923/p/11147147.html) |	Python |	| | 	 	Medium |	 
+|0015| [Leetcode 15. 3Sum](https://www.cnblogs.com/pegasus923/p/11122726.html)	| Python	  |      |  	 	  | Medium     |      | 
+|0026| [LeetCode 26. Remove Duplicates from Sorted Array](https://www.cnblogs.com/pegasus923/p/8384530.html) 	| C++	| | | 	 	Easy	|  	 	 	 	 	 	 
+|0073|	[Leetcode 73. Set Matrix Zeroes](https://www.cnblogs.com/pegasus923/p/11128473.html) |	Python	| |	| 	Medium	| 
+|0334| [Leetcode 334. Increasing Triplet Subsequence](https://www.cnblogs.com/pegasus923/p/11147147.html) |	Python |	| | 	 	Medium |	 
+|2016|[Maximum Difference Between Increasing Elements - LeetCode](https://leetcode.com/problems/maximum-difference-between-increasing-elements/)|C++|O(N)|O(1)|Easy|	 
  	 	 	 	 	 	 
 ### Strings 
 | #	   | Title	            | Solution	| Time	| Space	| Difficulty	| Note | 
@@ -45,7 +46,7 @@
 |0125|[LeetCode 125. Valid Palindrome](https://www.cnblogs.com/pegasus923/p/5612541.html)|C++ | | |Easy |
 |0242|[LeetCode 242. Valid Anagram](https://www.cnblogs.com/pegasus923/p/8366661.html)|C++ | | |Easy |
 |0344|[LeetCode 344. Reverse String](https://www.cnblogs.com/pegasus923/p/5496001.html) |C++ | | |Easy |
-|0387 |[LeetCode 387. First Unique Character in a String](https://www.cnblogs.com/pegasus923/p/8405755.html) |C++ | | |	 	 	Easy 	 |
+|0387|[LeetCode 387. First Unique Character in a String](https://www.cnblogs.com/pegasus923/p/8405755.html) |C++ | | |	 	 	Easy 	 |
  	 	 	 	 	 	 
 ### Linked List
 | #	   | Title	            | Solution	| Time	| Space	| Difficulty	| Note | 
