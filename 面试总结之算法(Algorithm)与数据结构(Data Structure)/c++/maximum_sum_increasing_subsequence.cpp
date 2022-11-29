@@ -19,12 +19,8 @@ public:
 	int maxSumIS(int arr[], int n)  
 	{  
 	    // Your code goes here
-	    std::vector<int> f(n);  // remember to specify size
+	    std::vector<int> f(arr, arr + n);  // initialise from array
 	    auto result {0};
-
-	    for (auto i = 0; i < n; ++ i) {
-	        f.at(i) = arr[i];
-	    }
 
 	    for (auto i = 0; i < n; ++ i) {
 	        for (auto j = 0; j < i; ++ j) {
