@@ -91,7 +91,7 @@
 | - | - | - | - | - | - | - |
 |0055|	[LeetCode 55. Jump Game](https://www.cnblogs.com/pegasus923/p/11494059.html)	|Python	||| 	 	Medium	 |
 |0062|	[Leetcode 62. Unique Paths](https://www.cnblogs.com/pegasus923/p/11519735.html) |	Python 	||| 	 	Medium 	 |
-|0300|	[Leetcode 300. Longest Increasing Subsequence](https://www.cnblogs.com/pegasus923/p/11536482.html) |	Python 	||| 	 	Medium 	 |
+|0300|[Leetcode 300. Longest Increasing Subsequence](https://www.cnblogs.com/pegasus923/p/11536482.html)|C++/Python|||Medium|
 |0322|	[Leetcode 322. Coin Change](https://www.cnblogs.com/pegasus923/p/11533290.html) |	Python 	||| 	 	Medium 	 |
 
 ### Design
