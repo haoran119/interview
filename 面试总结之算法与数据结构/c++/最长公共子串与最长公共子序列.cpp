@@ -6,6 +6,10 @@
 //  Copyright © 2017年 Hao. All rights reserved.
 //
 
+/*
+http://www.cnblogs.com/pegasus923/p/7573973.html
+*/
+
 #include <iostream>
 #include <vector>
 using namespace std;
