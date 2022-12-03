@@ -80,7 +80,7 @@ Restrictions on data type|Only ASCII characters allowed|No restrictions. Binary 
 Security|GET is less secure compared to POST because data sent is part of the URL. Never use GET when sending passwords or other sensitive information!	|POST is a little safer than GET because the parameters are not stored in browser history or in web server logs
 Visibility|Data is visible to everyone in the URL|Data is not displayed in the URL
 
-* [What's DNS](https://www.cloudflare.com/learning/dns/what-is-dns/) ?
+* [What's DNS ?](https://www.cloudflare.com/learning/dns/what-is-dns/)
   * The Domain Name System (DNS) is the phonebook of the Internet. Humans access information online through domain names, like nytimes.com or espn.com. Web browsers interact through Internet Protocol (IP) addresses. DNS translates domain names to IP addresses so browsers can load Internet resources.
   * [What is DNS? – Introduction to DNS - AWS](https://aws.amazon.com/route53/what-is-dns/?nc1=h_ls)
 * [Cookie、Session、Token那点事儿](https://mp.weixin.qq.com/s/b8h6_3CMlwsE8PtkrPr9FA)
