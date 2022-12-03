@@ -7,7 +7,23 @@
   * 分配在堆的内存要手动去释放
 * [大厂面试爱问的「调度算法」，20 张图一举拿下 (qq.com)](https://mp.weixin.qq.com/s/v49BrZhe5BMWjDJn-5FWRg)
 * [我和面试官之间关于操作系统的一场对弈！ (qq.com)](https://mp.weixin.qq.com/s/viTFTqsO1TZZgHk6r26LZg)
-* [What's difference between User Level thread and Kernel Level thread ?](https://www.geeksforgeeks.org/difference-between-user-level-thread-and-kernel-level-thread/#:~:text=User%20threads%20are%20implemented%20by,by%20Operating%20System%20(OS).)
+* User Level thread v.s. Kernel Level thread
+  * [User-level threads and Kernel-level threads](https://www.tutorialspoint.com/user-level-threads-and-kernel-level-threads)
+    * The user-level threads are implemented by users and the kernel is not aware of the existence of these threads. It handles them as if they were single-threaded processes. User-level threads are small and much faster than kernel level threads. They are represented by a program counter(PC), stack, registers and a small process control block. Also, there is no kernel involvement in synchronization for user-level threads.
+    * Kernel-level threads are handled by the operating system directly and the thread management is done by the kernel. The context information for the process as well as the process threads is all managed by the kernel. Because of this, kernel-level threads are slower than user-level threads.
+  * [Implement Threads in User Space - GeeksforGeeks](https://www.geeksforgeeks.org/implement-threads-in-user-space/)
+    * In an operating system, there are a number of programs, and both the operating system and the user share the hardware and software resources of the computer system. In order to ensure that an incorrect program doesn’t harm the other programs or the operating system, it distinguishes between the user-defined code and the operating-system code. 
+    * The approach is, only the task that is executing on behalf of the operating system is provided with hardware support, known as the kernel mode, while the task executing on behalf of a user application is not, known as a user mode.
+      * Kernel mode is a privileged mode, where the process has access to all the resources, such as hardware, kernel data, OS kernel code.
+      * The basic difference is that, in kernel mode, the kernel can access the hardware directly, but this is not the case with the user mode. However, when a user application requests a service from the operating system, the system must make a transition from user to kernel mode. 
+    * A better way to understand the concept is by looking at the following diagram. 
+    * ![image](https://user-images.githubusercontent.com/34557994/205421835-1f77f8bc-2b3d-46a8-8c42-72a0113d2abf.png)
+    * A thread is an execution unit, which is part of a process. It shares the process’s resources. It is scheduled by the scheduler. There are two ways to implement a thread, they’re either in user space or in the Kernel.
+    * Threads can be implemented in user space, without the support of the kernel. The following things happen if we  implement a thread in user space –
+      * The corresponding code and the data structures used are stored in the user space.
+      * If an API is invoked, it results in a local system call in user space, rather than a system call.
+      * The threads are managed entirely by the run-time system, without the kernel knowing anything about it.
+  * [What's difference between User Level thread and Kernel Level thread ?](https://www.geeksforgeeks.org/difference-between-user-level-thread-and-kernel-level-thread/#:~:text=User%20threads%20are%20implemented%20by,by%20Operating%20System%20(OS).)
 
 | No.	| Parameters	| User Level Thread	| Kernel Level Thread |
 | - | - | - | - |
