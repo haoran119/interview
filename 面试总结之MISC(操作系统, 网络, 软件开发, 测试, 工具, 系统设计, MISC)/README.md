@@ -67,7 +67,9 @@
     * PUT is used to send data to a server to create/update a resource.
     * The difference between POST and PUT is that PUT requests are idempotent. That is, calling the same PUT request multiple times will always produce the same result. In contrast, calling a POST request repeatedly have side effects of creating the same resource multiple times.
   * Compare GET vs. POST
+
 -|GET|POST
+-|-|-
 BACK button/Reload|Harmless|Data will be re-submitted (the browser should alert the user that the data are about to be re-submitted)
 Bookmarked|Can be bookmarked|Cannot be bookmarked
 Cached|Can be cached|Not cached
@@ -77,6 +79,7 @@ Restrictions on data length|Yes, when sending data, the GET method adds the data
 Restrictions on data type|Only ASCII characters allowed|No restrictions. Binary data is also allowed
 Security|GET is less secure compared to POST because data sent is part of the URL. Never use GET when sending passwords or other sensitive information!	|POST is a little safer than GET because the parameters are not stored in browser history or in web server logs
 Visibility|Data is visible to everyone in the URL|Data is not displayed in the URL
+
 * [Cookie、Session、Token那点事儿](https://mp.weixin.qq.com/s/b8h6_3CMlwsE8PtkrPr9FA)
   * https://www.jianshu.com/p/bd1be47a16c1
 * [一文彻底搞懂cookie和session](https://mp.weixin.qq.com/s/5b4h8-N-3HpQz4pL9Dn6Sw)
