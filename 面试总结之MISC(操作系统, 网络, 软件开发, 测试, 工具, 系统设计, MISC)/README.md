@@ -7,6 +7,23 @@
   * 分配在堆的内存要手动去释放
 * [大厂面试爱问的「调度算法」，20 张图一举拿下 (qq.com)](https://mp.weixin.qq.com/s/v49BrZhe5BMWjDJn-5FWRg)
 * [我和面试官之间关于操作系统的一场对弈！ (qq.com)](https://mp.weixin.qq.com/s/viTFTqsO1TZZgHk6r26LZg)
+* What's difference between User Level thread and Kernel Level thread ?
+
+| S. No.	| Parameters	| User Level Thread	| Kernel Level Thread |
+| - | - | - | - |
+| 1	| Implemented by	| User threads are implemented by users.	| Kernel threads are implemented by Operating System (OS). |
+| 2	| Recognize	| Operating System doesn’t recognize user level threads.	| Kernel threads are recognized by Operating System.
+| 3	| Implementation	| Implementation of User threads is easy.	| Implementation of Kernel thread is complicated.
+| 4	| Context switch time	| Context switch time is less.	| Context switch time is more.
+| 5	| Hardware support	| Context switch requires no hardware support.	| Hardware support is needed.
+| 6	| Blocking operation	| If one user level thread performs blocking operation then entire process will be blocked.	| If one kernel thread perform blocking operation then another thread can continue execution.
+| 7	| Multithreading	| Multithread applications cannot take advantage of multiprocessing.	| Kernels can be multithreaded.
+| 8	| Creation and Management	| User level threads can be created and managed more quickly. | Kernel level threads take more time to create and manage. 
+| 9	| Operating System	| Any operating system can support user-level threads.	| Kernel level threads are operating system-specific.
+| 10	| Thread Management	| The thread library contains the code for thread creation, message passing, thread scheduling, data transfer and thread destroying	| The application code does not contain thread management code. It is merely an API to the kernel mode. The Windows operating system makes use of this feature.
+| 11	| Example	| Example: Java thread, POSIX threads.	| Example: Window Solaris.
+| 12	| Advantages	| User Level Threads are simple and quick to create. / Can run on any operating system / They perform better than kernel threads since they don’t need to make system calls to create threads. / In user level threads, switching between threads does not need kernel mode privileges. | Scheduling of multiple threads that belong to same process on different processors is possible in kernel level threads. / Multithreading can be there for kernel routines. / When a thread at the kernel level is halted, the kernel can schedule another thread for the same process.
+| 13.	| Disadvantages	| Multithreaded applications on user-level threads cannot benefit from multiprocessing. / If a single user-level thread performs a blocking operation, the entire process is halted. | Transferring control within a process from one thread to another necessitates a mode switch to kernel mode. / Kernel level threads takes more time to create and manage than user level threads.
 
 ### 多线程
 
