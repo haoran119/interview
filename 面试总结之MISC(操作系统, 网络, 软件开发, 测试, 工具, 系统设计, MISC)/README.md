@@ -62,6 +62,21 @@
 * [面试官问我：三次握手与四次挥手是怎么完成的？](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247486377&idx=1&sn=05f19f7854f9e2524219e742e69fee51&chksm=fa0e6428cd79ed3e3b1a9c0f2f2ce9e73c13b4fc2586e7bf96da01e0e1cbb1ac30e4b276e900&mpshare=1&scene=24&srcid=&sharer_sharetime=1567832363410&sharer_shareid=5ed4a849fa42d9599a974fa8eb45e8fa&key=5a37b8e9f2933463a19e893ed135defb0616b130a6c0c3d7bf51b08d053292a643da98040780c4703bc795bfaf4ec690f22ed56aaaae3974bdb5de4130272d9bd0e2abfb7a79732df47daff037a5ce27&ascene=14&uin=MTMzMzc3MjY4MQ%3D%3D&devicetype=Windows+10&version=62060833&lang=en&pass_ticket=tT3maEfznKd3xtVT4L8%2Bl%2B2KKdhrJZ3ERaWEoIpqIMB2I2ssKo%2BTfx0v80L7rMTL)
 * [面试 | 你真的了解 HTTP 头部么？](https://mp.weixin.qq.com/s/Mcbfg1uLwk7pUo8tE48VGA)
 * [看完这篇HTTP，跟面试官扯皮就没问题了 (qq.com)](https://mp.weixin.qq.com/s/F3RoMypV62sjNKNfNJuzug)
+* [HTTP Methods GET vs POST vs PUT](https://www.w3schools.com/tags/ref_httpmethods.asp#:~:text=The%20PUT%20Method&text=The%20difference%20between%20POST%20and,the%20same%20resource%20multiple%20times.)
+  * The PUT Method
+    * PUT is used to send data to a server to create/update a resource.
+    * The difference between POST and PUT is that PUT requests are idempotent. That is, calling the same PUT request multiple times will always produce the same result. In contrast, calling a POST request repeatedly have side effects of creating the same resource multiple times.
+  * Compare GET vs. POST
+-|GET|POST
+BACK button/Reload|Harmless|Data will be re-submitted (the browser should alert the user that the data are about to be re-submitted)
+Bookmarked|Can be bookmarked|Cannot be bookmarked
+Cached|Can be cached|Not cached
+Encoding type|application/x-www-form-urlencoded|application/x-www-form-urlencoded or multipart/form-data. Use multipart encoding for binary data
+History|Parameters remain in browser history|Parameters are not saved in browser history
+Restrictions on data length|Yes, when sending data, the GET method adds the data to the URL; and the length of a URL is limited (maximum URL length is 2048 characters)|No restrictions
+Restrictions on data type|Only ASCII characters allowed|No restrictions. Binary data is also allowed
+Security|GET is less secure compared to POST because data sent is part of the URL. Never use GET when sending passwords or other sensitive information!	|POST is a little safer than GET because the parameters are not stored in browser history or in web server logs
+Visibility|Data is visible to everyone in the URL|Data is not displayed in the URL
 * [Cookie、Session、Token那点事儿](https://mp.weixin.qq.com/s/b8h6_3CMlwsE8PtkrPr9FA)
   * https://www.jianshu.com/p/bd1be47a16c1
 * [一文彻底搞懂cookie和session](https://mp.weixin.qq.com/s/5b4h8-N-3HpQz4pL9Dn6Sw)
@@ -200,7 +215,6 @@
 * [系统设计资料大全](https://mp.weixin.qq.com/s/jl0lQlSv6tOtmI3EMvrZQw)
 * [面试官绝杀：系统是如何支撑高并发的？](https://mp.weixin.qq.com/s/fHSKIgJVTdoPVu7hFAZXSw)
 * [每秒千万级实时数据处理系统是如何设计的？](https://mp.weixin.qq.com/s/BwDvqt2yLEq8BHnQUGS8gw)
-* [面试官：说说 Spring Cloud 的底层架构原理吧](https://mp.weixin.qq.com/s/eRY3QMHJdLr55Hzxhd-rfA)
 
 ## MISC
 
