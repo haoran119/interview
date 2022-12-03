@@ -224,4 +224,5 @@ Visibility|Data is visible to everyone in the URL|Data is not displayed in the U
 * [一起刷题学习 Git/SQL/正则表达式 (qq.com)](https://mp.weixin.qq.com/s/31gpcQkKvy7sMUvEoVyHQw)
 * [What is the difference between SSD and HDD ?](https://www.avast.com/c-ssd-vs-hdd#:~:text=SSD%20vs%20HDD%3A%20What%27s%20the,less%20energy%2C%20and%20more%20durable.)
   * HDDs are traditional storage devices with spinning platters that read and write data. SSDs use newer technology that stores data on instantly accessible memory chips. SSDs are faster, quieter, smaller, consume less energy, and more durable. HDDs are cheaper, have more storage capacity, and offer easier data recovery if damaged.
+  * The main difference between a solid state drive (SSD) and a hard disk drive (HDD) is how data is stored and accessed. HDDs use mechanical spinning disks and a moving read/write head to access data, while SSDs use memory chips. If price isn’t an issue, SSDs are a better option — especially since modern SSDs are just about as reliable as HDDs.
 ![image](https://user-images.githubusercontent.com/34557994/205414966-3b429837-cfed-44c0-8ce6-dff647773427.png)
