@@ -67,13 +67,14 @@
 |0230|	[Leetcode 230. Kth Smallest Element in a BST](https://www.cnblogs.com/pegasus923/p/11266173.html)|	Python 	||| 	 	Medium 	 |
  	 	 	 	 	 	 
 ### Backtracking
-| #	   | Title	            | Solution	| Time	| Space	| Difficulty	| Note | 
+| #	| Title	| Solution	| Time	| Space	| Difficulty	| Note | 
 | - | - | - | - | - | - | - |
-|0017|	[LeetCode 17. Letter Combinations of a Phone Number](https://www.cnblogs.com/pegasus923/p/8567859.html)|	C++ / Python 	||| 	 	Medium	 |
-|0022|	[Leetcode 22. Generate Parentheses](https://www.cnblogs.com/pegasus923/p/11299186.html) | 	Python	||| 	 	Medium 	 |
-|0046| 	[Leetcode 46. Permutations](https://www.cnblogs.com/pegasus923/p/11299753.html) | 	Python |||	 	 	Medium 	 |
-|0078| 	[Leetcode 78. Subsets](https://www.cnblogs.com/pegasus923/p/11343074.html) | 	Python 	||| 	 	Medium 	 |
-|0079|	[Leetcode 79. Word Search](https://www.cnblogs.com/pegasus923/p/11348895.html)	|Python |||	 	 	Medium 	 |
+|0017|[LeetCode 17. Letter Combinations of a Phone Number](https://www.cnblogs.com/pegasus923/p/8567859.html)|	C++ / Python 	||| 	 	Medium	 |
+|0022|[Leetcode 22. Generate Parentheses](https://www.cnblogs.com/pegasus923/p/11299186.html) | 	Python	||| 	 	Medium 	 |
+|0046|[Leetcode 46. Permutations](https://www.cnblogs.com/pegasus923/p/11299753.html) | 	Python |||	 	 	Medium 	 |
+|0078|[Leetcode 78. Subsets](https://www.cnblogs.com/pegasus923/p/11343074.html) | 	Python 	||| 	 	Medium 	 |
+|0079|[Leetcode 79. Word Search](https://www.cnblogs.com/pegasus923/p/11348895.html)	|Python |||	 	 	Medium 	 |
+|0695|[Max Area of Island - LeetCode](https://leetcode.com/problems/max-area-of-island/)|C++|O(m * n)|O(m * n)|Easy| - |
 
 ### Sorting and Searching
 | #	   | Title	            | Solution	| Time	| Space	| Difficulty	| Note | 
