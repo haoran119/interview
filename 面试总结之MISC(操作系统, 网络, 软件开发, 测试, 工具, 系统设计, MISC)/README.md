@@ -7,9 +7,9 @@
   * 分配在堆的内存要手动去释放
 * [大厂面试爱问的「调度算法」，20 张图一举拿下 (qq.com)](https://mp.weixin.qq.com/s/v49BrZhe5BMWjDJn-5FWRg)
 * [我和面试官之间关于操作系统的一场对弈！ (qq.com)](https://mp.weixin.qq.com/s/viTFTqsO1TZZgHk6r26LZg)
-* What's difference between User Level thread and Kernel Level thread ?
+* [What's difference between User Level thread and Kernel Level thread ?](https://www.geeksforgeeks.org/difference-between-user-level-thread-and-kernel-level-thread/#:~:text=User%20threads%20are%20implemented%20by,by%20Operating%20System%20(OS).)
 
-| S. No.	| Parameters	| User Level Thread	| Kernel Level Thread |
+| No.	| Parameters	| User Level Thread	| Kernel Level Thread |
 | - | - | - | - |
 | 1	| Implemented by	| User threads are implemented by users.	| Kernel threads are implemented by Operating System (OS). |
 | 2	| Recognize	| Operating System doesn’t recognize user level threads.	| Kernel threads are recognized by Operating System.
