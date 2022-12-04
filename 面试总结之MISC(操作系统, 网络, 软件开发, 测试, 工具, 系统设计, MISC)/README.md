@@ -243,13 +243,18 @@ Visibility|Data is visible to everyone in the URL|Data is not displayed in the U
     * Swing提供许多比AWT更好的屏幕显示元素。它们用纯Java写成，所以同Java本身一样可以跨平台运行，这一点不像AWT。它们是JFC的一部分。它们支持可更换的面板和主题（各种操作系统默认的特有主题），然而不是真的使用原生平台提供的设备，而是仅仅在表面上模仿它们。这意味着你可以在任意平台上使用Java支持的任意面板。轻量级组件的缺点则是执行速度较慢，优点就是可以在所有平台上采用统一的行为。
 * [程序员必备的工具软件有哪些？](https://mp.weixin.qq.com/s/0JXEb_QHqKDQ755sX3R6GQ)
 
-## 系统设计
+## [系统设计](https://github.com/haoran119/learning-notes/tree/main/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E4%B9%8BCoding-Design-Tool#design)
 
-* [个人吐血整理的系统设计资料大全 - 九章算法](https://mp.weixin.qq.com/s/4kv57_rBVWemkh5t33WGMw)
 * 设计模式
   * [设计模式（即使代码编制真正工程化）_百度百科](http://baike.baidu.com/link?url=QoxZgqaX0LcWjUC9bYsOC8jLwWf3HpljeCuDoqxL4MYIWnWqzdtWlIhyVhe6npPk8zL-pcoQP5oq4HImZKspt9Da3R7d3cEkrsVgwqVmAKu)
 * 单体如何避免多个instance？
   * 构造时指向一块内存保证惟一性。static
+* [System Design of Bank Management System](https://iq.opengenus.org/system-design-of-bank-management-system/)
+* [System Design Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/system-design-tutorial/)
+  * [How to Crack System Design Round in Interviews? - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-crack-system-design-round-in-interviews/)
+  * [Top 10 System Design Interview Questions and Answers - GeeksforGeeks](https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/)
+* [System Design Course for Beginners - YouTube](https://www.youtube.com/watch?v=MbjObHmDbZo)
+* [个人吐血整理的系统设计资料大全 - 九章算法](https://mp.weixin.qq.com/s/4kv57_rBVWemkh5t33WGMw)
 * [如何设计爬虫系统 | 系统设计高频题解题思路分析](https://mp.weixin.qq.com/s/X6e9zXRFDRN05RrD11XUGg)
 * [系统设计资料大全](https://mp.weixin.qq.com/s/jl0lQlSv6tOtmI3EMvrZQw)
 * [面试官绝杀：系统是如何支撑高并发的？](https://mp.weixin.qq.com/s/fHSKIgJVTdoPVu7hFAZXSw)
