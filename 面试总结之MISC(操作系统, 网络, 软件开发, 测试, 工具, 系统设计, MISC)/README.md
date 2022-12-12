@@ -250,36 +250,40 @@ Visibility|Data is visible to everyone in the URL|Data is not displayed in the U
 * 单体如何避免多个instance？
     * 构造时指向一块内存保证惟一性。static
 * [System Design of Bank Management System](https://iq.opengenus.org/system-design-of-bank-management-system/)
-* [System Design Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/system-design-tutorial/)
-    * [Getting Started with System Design - GeeksforGeeks](https://www.geeksforgeeks.org/getting-started-with-system-design/)
-        * Approaching a Design Problem
-            * Breaking Down the Problem
-            * Communicating your Ideas
-            * Assumptions that make sense
-        * Reliability in System Design –
-            * A system is Reliable when it can meet the end-user requirement. When you are designing a system you should have planned to implement a set of features and services in your system. If your system can serve all those features without wearing out then your System can be considered to be Reliable.
-            * A Fault Tolerant system can be one that can continue to be functioning reliably even in the presence of faults. Faults are the errors that arise in a particular component of the system. An occurrence of fault doesn’t guarantee Failure of the System.
-            * Failure is the state when the system is not able to perform as expected. It is no longer able to provide certain services to the end-users.
-        * Availability in System Design –
-            * Availability is a characteristic of a System which aims to ensure an agreed level of Operational Performance, also known as uptime. It is essential for a system to ensure high availability in order to serve the user’s requests.
-            * There are various principles you should follow in order to ensure the availability of your system :
-                * Your System should not have a Single Point of Failure. Basically, your system should not be dependent on a single service in order to process all of its requests. Because when that service fails then your entire system can be jeopardized and end up becoming unavailable.
-                * Detecting the Failure and resolving it at that point.
-        * Scalability in System Design –
-            * Scalability refers to the ability of the System to cope up with the increasing load. 
-            * In order to ensure scalability you should be able to compute the load that your system will experience. There are various factors that describe the Load on the System:
-                * Number of requests coming to your system for getting processed per day
-                * Number of Database calls made from your system
-                * Amount of Cache Hit or Miss requests to your system
-                * Users currently active on your system
-    * [How to Crack System Design Round in Interviews? - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-crack-system-design-round-in-interviews/)
-    * [Top 10 System Design Interview Questions and Answers - GeeksforGeeks](https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/)
 * [System Design Course for Beginners - YouTube](https://www.youtube.com/watch?v=MbjObHmDbZo)
 * [个人吐血整理的系统设计资料大全 - 九章算法](https://mp.weixin.qq.com/s/4kv57_rBVWemkh5t33WGMw)
 * [如何设计爬虫系统 | 系统设计高频题解题思路分析](https://mp.weixin.qq.com/s/X6e9zXRFDRN05RrD11XUGg)
 * [系统设计资料大全](https://mp.weixin.qq.com/s/jl0lQlSv6tOtmI3EMvrZQw)
 * [面试官绝杀：系统是如何支撑高并发的？](https://mp.weixin.qq.com/s/fHSKIgJVTdoPVu7hFAZXSw)
 * [每秒千万级实时数据处理系统是如何设计的？](https://mp.weixin.qq.com/s/BwDvqt2yLEq8BHnQUGS8gw)
+
+### [System Design Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/system-design-tutorial/)
+
+* [Getting Started with System Design - GeeksforGeeks](https://www.geeksforgeeks.org/getting-started-with-system-design/)
+    * Approaching a Design Problem
+        * Breaking Down the Problem
+        * Communicating your Ideas
+        * Assumptions that make sense
+    * Reliability in System Design –
+        * A system is Reliable when it can meet the end-user requirement. When you are designing a system you should have planned to implement a set of features and services in your system. If your system can serve all those features without wearing out then your System can be considered to be Reliable.
+        * A Fault Tolerant system can be one that can continue to be functioning reliably even in the presence of faults. Faults are the errors that arise in a particular component of the system. An occurrence of fault doesn’t guarantee Failure of the System.
+        * Failure is the state when the system is not able to perform as expected. It is no longer able to provide certain services to the end-users.
+    * Availability in System Design –
+        * Availability is a characteristic of a System which aims to ensure an agreed level of Operational Performance, also known as uptime. It is essential for a system to ensure high availability in order to serve the user’s requests.
+        * There are various principles you should follow in order to ensure the availability of your system :
+            * Your System should not have a Single Point of Failure. Basically, your system should not be dependent on a single service in order to process all of its requests. Because when that service fails then your entire system can be jeopardized and end up becoming unavailable.
+            * Detecting the Failure and resolving it at that point.
+    * Scalability in System Design –
+        * Scalability refers to the ability of the System to cope up with the increasing load. 
+        * In order to ensure scalability you should be able to compute the load that your system will experience. There are various factors that describe the Load on the System:
+            * Number of requests coming to your system for getting processed per day
+            * Number of Database calls made from your system
+            * Amount of Cache Hit or Miss requests to your system
+            * Users currently active on your system
+* [Database Sharding - System Design Interview Concept - GeeksforGeeks](https://www.geeksforgeeks.org/database-sharding-a-system-design-concept/)
+    * 
+* [How to Crack System Design Round in Interviews? - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-crack-system-design-round-in-interviews/)
+* [Top 10 System Design Interview Questions and Answers - GeeksforGeeks](https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/)
 
 ## MISC
 
