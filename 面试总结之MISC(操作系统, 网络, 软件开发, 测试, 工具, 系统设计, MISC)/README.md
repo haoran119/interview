@@ -245,7 +245,6 @@ Visibility|Data is visible to everyone in the URL|Data is not displayed in the U
 
 ## [系统设计](https://github.com/haoran119/learning-notes/tree/main/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E4%B9%8BCoding-Design-Tool#design)
 
-* [learning-notes/学习笔记之Coding-Design-Tool at main · haoran119/learning-notes](https://github.com/haoran119/learning-notes/tree/main/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E4%B9%8BCoding-Design-Tool#design)
 * 设计模式
   * [设计模式（即使代码编制真正工程化）_百度百科](http://baike.baidu.com/link?url=QoxZgqaX0LcWjUC9bYsOC8jLwWf3HpljeCuDoqxL4MYIWnWqzdtWlIhyVhe6npPk8zL-pcoQP5oq4HImZKspt9Da3R7d3cEkrsVgwqVmAKu)
 * 单体如何避免多个instance？
