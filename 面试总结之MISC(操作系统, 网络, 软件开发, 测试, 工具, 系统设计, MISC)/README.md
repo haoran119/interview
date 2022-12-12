@@ -246,13 +246,34 @@ Visibility|Data is visible to everyone in the URL|Data is not displayed in the U
 ## [系统设计](https://github.com/haoran119/learning-notes/tree/main/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E4%B9%8BCoding-Design-Tool#design)
 
 * 设计模式
-  * [设计模式（即使代码编制真正工程化）_百度百科](http://baike.baidu.com/link?url=QoxZgqaX0LcWjUC9bYsOC8jLwWf3HpljeCuDoqxL4MYIWnWqzdtWlIhyVhe6npPk8zL-pcoQP5oq4HImZKspt9Da3R7d3cEkrsVgwqVmAKu)
+    * [设计模式（即使代码编制真正工程化）_百度百科](http://baike.baidu.com/link?url=QoxZgqaX0LcWjUC9bYsOC8jLwWf3HpljeCuDoqxL4MYIWnWqzdtWlIhyVhe6npPk8zL-pcoQP5oq4HImZKspt9Da3R7d3cEkrsVgwqVmAKu)
 * 单体如何避免多个instance？
-  * 构造时指向一块内存保证惟一性。static
+    * 构造时指向一块内存保证惟一性。static
 * [System Design of Bank Management System](https://iq.opengenus.org/system-design-of-bank-management-system/)
 * [System Design Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/system-design-tutorial/)
-  * [How to Crack System Design Round in Interviews? - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-crack-system-design-round-in-interviews/)
-  * [Top 10 System Design Interview Questions and Answers - GeeksforGeeks](https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/)
+    * [Getting Started with System Design - GeeksforGeeks](https://www.geeksforgeeks.org/getting-started-with-system-design/)
+        * Approaching a Design Problem
+            * Breaking Down the Problem
+            * Communicating your Ideas
+            * Assumptions that make sense
+        * Reliability in System Design –
+            * A system is Reliable when it can meet the end-user requirement. When you are designing a system you should have planned to implement a set of features and services in your system. If your system can serve all those features without wearing out then your System can be considered to be Reliable.
+            * A Fault Tolerant system can be one that can continue to be functioning reliably even in the presence of faults. Faults are the errors that arise in a particular component of the system. An occurrence of fault doesn’t guarantee Failure of the System.
+            * Failure is the state when the system is not able to perform as expected. It is no longer able to provide certain services to the end-users.
+        * Availability in System Design –
+            * Availability is a characteristic of a System which aims to ensure an agreed level of Operational Performance, also known as uptime. It is essential for a system to ensure high availability in order to serve the user’s requests.
+            * There are various principles you should follow in order to ensure the availability of your system :
+                * Your System should not have a Single Point of Failure. Basically, your system should not be dependent on a single service in order to process all of its requests. Because when that service fails then your entire system can be jeopardized and end up becoming unavailable.
+                * Detecting the Failure and resolving it at that point.
+        * Scalability in System Design –
+            * Scalability refers to the ability of the System to cope up with the increasing load. 
+            * In order to ensure scalability you should be able to compute the load that your system will experience. There are various factors that describe the Load on the System:
+                * Number of requests coming to your system for getting processed per day
+                * Number of Database calls made from your system
+                * Amount of Cache Hit or Miss requests to your system
+                * Users currently active on your system
+    * [How to Crack System Design Round in Interviews? - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-crack-system-design-round-in-interviews/)
+    * [Top 10 System Design Interview Questions and Answers - GeeksforGeeks](https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/)
 * [System Design Course for Beginners - YouTube](https://www.youtube.com/watch?v=MbjObHmDbZo)
 * [个人吐血整理的系统设计资料大全 - 九章算法](https://mp.weixin.qq.com/s/4kv57_rBVWemkh5t33WGMw)
 * [如何设计爬虫系统 | 系统设计高频题解题思路分析](https://mp.weixin.qq.com/s/X6e9zXRFDRN05RrD11XUGg)
@@ -264,8 +285,8 @@ Visibility|Data is visible to everyone in the URL|Data is not displayed in the U
 
 * [一起刷题学习 Git/SQL/正则表达式 (qq.com)](https://mp.weixin.qq.com/s/31gpcQkKvy7sMUvEoVyHQw)
 * [What is the difference between SSD and HDD ?](https://www.avast.com/c-ssd-vs-hdd#:~:text=SSD%20vs%20HDD%3A%20What%27s%20the,less%20energy%2C%20and%20more%20durable.)
-  * HDDs are traditional storage devices with spinning platters that read and write data. SSDs use newer technology that stores data on instantly accessible memory chips. SSDs are faster, quieter, smaller, consume less energy, and more durable. HDDs are cheaper, have more storage capacity, and offer easier data recovery if damaged.
-  * The main difference between a solid state drive (SSD) and a hard disk drive (HDD) is how data is stored and accessed. HDDs use mechanical spinning disks and a moving read/write head to access data, while SSDs use memory chips. If price isn’t an issue, SSDs are a better option — especially since modern SSDs are just about as reliable as HDDs.
+    * HDDs are traditional storage devices with spinning platters that read and write data. SSDs use newer technology that stores data on instantly accessible memory chips. SSDs are faster, quieter, smaller, consume less energy, and more durable. HDDs are cheaper, have more storage capacity, and offer easier data recovery if damaged.
+    * The main difference between a solid state drive (SSD) and a hard disk drive (HDD) is how data is stored and accessed. HDDs use mechanical spinning disks and a moving read/write head to access data, while SSDs use memory chips. If price isn’t an issue, SSDs are a better option — especially since modern SSDs are just about as reliable as HDDs.
 ![image](https://user-images.githubusercontent.com/34557994/205414966-3b429837-cfed-44c0-8ce6-dff647773427.png)
 
 # END
