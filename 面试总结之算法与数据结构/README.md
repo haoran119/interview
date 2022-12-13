@@ -190,7 +190,7 @@
 * [面试总结之排序算法 - 浩然119 - 博客园 (cnblogs.com)](https://www.cnblogs.com/pegasus923/p/5576819.html)
 * [面试总结之查找算法 - 浩然119 - 博客园 (cnblogs.com)](https://www.cnblogs.com/pegasus923/p/5574852.html)
 
-#### Quick Sort
+#### [Quick Sort](https://www.geeksforgeeks.org/quick-sort/?ref=lbp)
 
 ```c++
 #include <iostream>
@@ -247,6 +247,80 @@ int main ()
 
     auto test_solution = Solution();
     test_solution.quick_sort(v_input, 0, v_input.size() - 1);
+
+    for (const auto& i : v_input)
+        std::cout << i << " ";
+    std::cout << std::endl;
+
+    return 0;
+}
+```
+
+#### [Merge Sort](https://www.geeksforgeeks.org/merge-sort/)
+
+```c++
+#include <iostream>
+#include <vector>
+
+class Solution
+{
+public:
+    // Pass in reference of vector parameter
+    void merge_sort(std::vector<int> &nums, const int left, const int right)
+    {
+        if (left >= right) {
+            return;
+        }
+
+        auto mid{left + (right - left) / 2};
+        merge_sort(nums, left, mid);
+        merge_sort(nums, mid + 1, right);
+        merge(nums, left, mid, right);
+    }
+
+    void merge(std::vector<int> &nums, const int left, const int mid, const int right)
+    {
+        auto i{left}, j{mid + 1};
+        std::vector<int> v_temp;
+        v_temp.reserve(right - left + 1);
+
+        // merge two sorted vector into one temp vector
+        while (i <= mid && j <= right) {
+            if (nums.at(i) < nums.at(j)) {
+                v_temp.emplace_back(nums.at(i ++));
+            }
+            else {
+                v_temp.emplace_back(nums.at(j ++));
+            }
+        }
+
+        // append the remaining numbers to the temp vector
+        while (i <= mid) {
+            v_temp.emplace_back(nums.at(i ++));
+        }
+        while (j <= right) {
+            v_temp.emplace_back(nums.at(j ++));
+        }
+
+        // assign sorted temp vector to nums
+        for (auto id = 0; id < v_temp.size(); ++ id) {
+            nums.at(left + id) = v_temp.at(id);
+        }
+    }
+};
+
+int main ()
+{
+    std::vector<int> v_input{0, 1, 5, 9, 0, 2, 6, 7, 8, 3, 4};
+    // std::vector<int> v_input{0, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
+    // std::vector<int> v_input{9, 8, 7, 6, 5, 4, 3, 2, 1, 0, 0};
+    // std::vector<int> v_input{9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9};        
+    for (const auto& i : v_input)
+        std::cout << i << " ";
+    std::cout << '\n';
+
+    auto test_solution = Solution();
+    test_solution.merge_sort(v_input, 0, v_input.size() - 1);
 
     for (const auto& i : v_input)
         std::cout << i << " ";
