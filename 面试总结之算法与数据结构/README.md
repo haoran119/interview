@@ -200,7 +200,7 @@ class Solution
 {
 public:
     // Pass in reference of vector parameter
-    void quick_sort(std::vector<int> &nums, int left, int right)
+    void quick_sort(std::vector<int> &nums, const int left, const int right)
     {
         if (left >= right) {
             return;
