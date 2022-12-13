@@ -249,7 +249,9 @@ Visibility|Data is visible to everyone in the URL|Data is not displayed in the U
     * [设计模式（即使代码编制真正工程化）_百度百科](http://baike.baidu.com/link?url=QoxZgqaX0LcWjUC9bYsOC8jLwWf3HpljeCuDoqxL4MYIWnWqzdtWlIhyVhe6npPk8zL-pcoQP5oq4HImZKspt9Da3R7d3cEkrsVgwqVmAKu)
 * 单体如何避免多个instance？
     * 构造时指向一块内存保证惟一性。static
-* [System Design of Bank Management System](https://iq.opengenus.org/system-design-of-bank-management-system/)
+* [System Design - OpenGenus IQ: Computing Expertise & Legacy](https://iq.opengenus.org/tag/system-design/)
+    * [System Design of Bank Management System](https://iq.opengenus.org/system-design-of-bank-management-system/)
+    * [System Design of Facebook Messenger](https://iq.opengenus.org/system-design-of-facebook-messenger/)
 * [System Design Course for Beginners - YouTube](https://www.youtube.com/watch?v=MbjObHmDbZo)
 * [个人吐血整理的系统设计资料大全 - 九章算法](https://mp.weixin.qq.com/s/4kv57_rBVWemkh5t33WGMw)
 * [如何设计爬虫系统 | 系统设计高频题解题思路分析](https://mp.weixin.qq.com/s/X6e9zXRFDRN05RrD11XUGg)
@@ -281,9 +283,9 @@ Visibility|Data is visible to everyone in the URL|Data is not displayed in the U
             * Amount of Cache Hit or Miss requests to your system
             * Users currently active on your system
 * [Database Sharding - System Design Interview Concept - GeeksforGeeks](https://www.geeksforgeeks.org/database-sharding-a-system-design-concept/)
-    * 
 * [How to Crack System Design Round in Interviews? - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-crack-system-design-round-in-interviews/)
 * [Top 10 System Design Interview Questions and Answers - GeeksforGeeks](https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/)
+* [Design Twitter - A System Design Interview Question - GeeksforGeeks](https://www.geeksforgeeks.org/design-twitter-a-system-design-interview-question/)
 
 ## MISC
 
