@@ -190,6 +190,72 @@
 * [面试总结之排序算法 - 浩然119 - 博客园 (cnblogs.com)](https://www.cnblogs.com/pegasus923/p/5576819.html)
 * [面试总结之查找算法 - 浩然119 - 博客园 (cnblogs.com)](https://www.cnblogs.com/pegasus923/p/5574852.html)
 
+#### Quick Sort
+
+```c++
+#include <iostream>
+#include <vector>
+
+class Solution
+{
+public:
+    // Pass in reference of vector parameter
+    void quick_sort(std::vector<int> &nums, int left, int right)
+    {
+        if (left >= right) {
+            return;
+        }
+
+        auto i = left, j = right, temp = nums.at(left);
+
+        while (i < j) {
+            // Scan from right to left
+            while (i < j && nums.at(j) >= temp) {
+                -- j;
+            }
+            if (i < j) {
+                nums.at(i ++) = nums.at(j);
+            }
+
+            // Scan from left to right
+            while (i < j && nums.at(i) <= temp) {
+                ++ i;
+            }
+            if (i < j) {
+                nums.at(j --) = nums.at(i);
+            }
+
+            // Base value temp is on the correct position now
+            nums.at(i) = temp;
+
+            // Divide and conquer
+            quick_sort(nums, left, i - 1);
+            quick_sort(nums, i + 1, right);
+        }
+    }
+};
+
+int main ()
+{
+    std::vector<int> v_input{0, 1, 5, 9, 0, 2, 6, 7, 8, 3, 4};
+    // std::vector<int> v_input{0, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
+    // std::vector<int> v_input{9, 8, 7, 6, 5, 4, 3, 2, 1, 0, 0};
+    // std::vector<int> v_input{9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9};
+    for (const auto& i : v_input)
+        std::cout << i << " ";
+    std::cout << '\n';
+
+    auto test_solution = Solution();
+    test_solution.quick_sort(v_input, 0, v_input.size() - 1);
+
+    for (const auto& i : v_input)
+        std::cout << i << " ";
+    std::cout << std::endl;
+
+    return 0;
+}
+```
+
 ### Top K
 
 * [五分钟学算法：Top K 问题的两种经典解法 (qq.com)](https://mp.weixin.qq.com/s/je3GvIBPLGZz5Pt_TIQ3lA)
