@@ -3,7 +3,7 @@
 * [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/)
 * [力扣（LeetCode）官网 - 全球极客挚爱的技术成长平台 (leetcode-cn.com)](https://leetcode-cn.com/)
 * Topics tagged under "amazon" | LeetCode Discuss
-  * [Interview Question - LeetCode Discuss](https://leetcode.com/discuss/interview-question/?currentPage=1&orderBy=hot&query=)
+    * [Interview Question - LeetCode Discuss](https://leetcode.com/discuss/interview-question/?currentPage=1&orderBy=hot&query=)
 
 ## Resources
 
@@ -14,10 +14,10 @@
 * [Leetcode problems classified by company | Learn for Master](http://www.learn4master.com/interview-questions/leetcode/leetcode-problems-classified-by-company)
 * [LeetCode最新题库 按公司分类（2017年11月12日）【一亩三分地论坛刷题版】 - Powered by Discuz!](https://www.1point3acres.com/bbs/thread-303841-1-1.html)
 * [900 多道 LeetCode 题解，这个 GitHub 项目值得 Star！ (qq.com)](https://mp.weixin.qq.com/s/xUAnNFRfOYnr7sZ6s1jdKg)
-  * [leetcode/README-CN.md at master · grandyang/leetcode (github.com)](https://github.com/grandyang/leetcode/blob/master/README-CN.md)
+    * [leetcode/README-CN.md at master · grandyang/leetcode (github.com)](https://github.com/grandyang/leetcode/blob/master/README-CN.md)
 * [国内开发者在 GitHub 上开源 LeetCode 刷题模板(qq.com)](https://mp.weixin.qq.com/s/U1XiV9K7wI0ZaWG1mEInhg)
-  * [greyireland/algorithm-pattern: 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~ (github.com)](https://github.com/greyireland/algorithm-pattern/)
-  * [Introduction - algorithm-pattern (gitbook.io)](https://greyireland.gitbook.io/algorithm-pattern/)
+    * [greyireland/algorithm-pattern: 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~ (github.com)](https://github.com/greyireland/algorithm-pattern/)
+    * [Introduction - algorithm-pattern (gitbook.io)](https://greyireland.gitbook.io/algorithm-pattern/)
 * [有了这套模板，再也不用担心我刷不动 LeetCode 了 (qq.com)](https://mp.weixin.qq.com/s/lPfR049hwgnpnIvC4LYF6g)
 
 ## Algorithms
@@ -34,6 +34,7 @@
 |2016|[Maximum Difference Between Increasing Elements - LeetCode](https://leetcode.com/problems/maximum-difference-between-increasing-elements/)|C++|O(N)|O(1)|Easy|	 
  	 	 	 	 	 	 
 ### Strings 
+
 | #	   | Title	            | Solution	| Time	| Space	| Difficulty	| Note | 
 | - | - | - | - | - | - | - |
 |0003|[Leetcode 3. Longest Substring Without Repeating Characters](https://www.cnblogs.com/pegasus923/p/10452148.html) |Python | | | Medium |
@@ -50,13 +51,16 @@
 |0387|[LeetCode 387. First Unique Character in a String](https://www.cnblogs.com/pegasus923/p/8405755.html) |C++ | | |	 	 	Easy 	 |
  	 	 	 	 	 	 
 ### Linked List
+
 | #	   | Title	            | Solution	| Time	| Space	| Difficulty	| Note | 
 | - | - | - | - | - | - | - |
 |0002|	[Leetcode 2. Add Two Numbers](https://www.cnblogs.com/pegasus923/p/11154158.html)|	Python|||	 	 	Medium	 |
 |0160|	[Leetcode 160. Intersection of Two Linked Lists](https://www.cnblogs.com/pegasus923/p/11180317.html)	|Python	||| 	 	Easy	 |
 |0328| 	[Leetcode 328. Odd Even Linked List](https://www.cnblogs.com/pegasus923/p/11166582.html)|  	Python||| 	 	 	Medium 	 | 	 	 	 	 	 	  	 	 	 	 	 	 
+|0460| [LFU Cache - LeetCode](https://leetcode.com/problems/lfu-cache/description/) | C++ | O(1) | O(k) | Hard |  |
 
 ### Trees and Graphs
+
 | #	   | Title	            | Solution	| Time	| Space	| Difficulty	| Note | 
 | - | - | - | - | - | - | - |
 |0094|	[Leetcode 94. Binary Tree Inorder Traversal](https://www.cnblogs.com/pegasus923/p/11190606.html)|	Python	||| 	 	Medium	 |
@@ -67,6 +71,7 @@
 |0230|	[Leetcode 230. Kth Smallest Element in a BST](https://www.cnblogs.com/pegasus923/p/11266173.html)|	Python 	||| 	 	Medium 	 |
  	 	 	 	 	 	 
 ### Backtracking
+
 | #	| Title	| Solution	| Time	| Space	| Difficulty	| Note | 
 | - | - | - | - | - | - | - |
 |0017|[LeetCode 17. Letter Combinations of a Phone Number](https://www.cnblogs.com/pegasus923/p/8567859.html)|	C++ / Python 	||| 	 	Medium	 |
@@ -77,6 +82,7 @@
 |0695|[Max Area of Island - LeetCode](https://leetcode.com/problems/max-area-of-island/)|C++|O(m * n)|O(m * n)|Easy| - |
 
 ### Sorting and Searching
+
 | #	   | Title	            | Solution	| Time	| Space	| Difficulty	| Note | 
 | - | - | - | - | - | - | - |
 |0033|	[Leetcode 33. Search in Rotated Sorted Array](https://www.cnblogs.com/pegasus923/p/11448749.html)	|Python |||	 	 	Medium 	 |
@@ -89,6 +95,7 @@
 |0347|	[LeetCode 347. Top K Frequent Elements](https://www.cnblogs.com/pegasus923/p/5513792.html) | 	Python 	||| 	 	Medium 	 |
  	 	 	 	 	 	  	 	 	 	 	 	
 ### Dynamic Programming
+
 | #	   | Title	            | Solution	| Time	| Space	| Difficulty	| Note | 
 | - | - | - | - | - | - | - |
 |0055|	[LeetCode 55. Jump Game](https://www.cnblogs.com/pegasus923/p/11494059.html)	|Python	||| 	 	Medium	 |
@@ -97,16 +104,19 @@
 |0322|	[Leetcode 322. Coin Change](https://www.cnblogs.com/pegasus923/p/11533290.html) |	Python 	||| 	 	Medium 	 |
 
 ### Design
+
 | #	   | Title	            | Solution	| Time	| Space	| Difficulty	| Note | 
 | - | - | - | - | - | - | - |
 |0297|	[Leetcode 297. Serialize and Deserialize Binary Tree](https://www.cnblogs.com/pegasus923/p/11601638.html)	|Python	||| 	 	Medium	|	  		 	 	 	 	 
 
 ### Math
+
 | #	   | Title	            | Solution	| Time	| Space	| Difficulty	| Note | 
 | - | - | - | - | - | - | - |
 |0026|[LeetCode 26. Remove Duplicates from Sorted Array](https://www.cnblogs.com/pegasus923/p/8384530.html) |	 C++	 |||	 	 Easy	 |
  	 	 	 	 	 	 
 ## Database
+
 | #	   | Title	            | Solution	| Time	| Space	| Difficulty	| Note | 
 | - | - | - | - | - | - | - |
 |0175|[LeetCode 175. Combine Two Tables](https://www.cnblogs.com/pegasus923/p/7652884.html)	|SQL |||| 
