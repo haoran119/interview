@@ -2,6 +2,7 @@
 
 * [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/)
 * [力扣（LeetCode）官网 - 全球极客挚爱的技术成长平台 (leetcode-cn.com)](https://leetcode-cn.com/)
+    * [LeetBook - 力扣（LeetCode）全球极客挚爱的技术成长平台](https://leetcode.cn/leetbook/)
 * Topics tagged under "amazon" | LeetCode Discuss
     * [Interview Question - LeetCode Discuss](https://leetcode.com/discuss/interview-question/?currentPage=1&orderBy=hot&query=)
 
