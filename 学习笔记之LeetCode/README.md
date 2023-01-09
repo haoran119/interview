@@ -56,6 +56,7 @@
 | #	   | Title	            | Solution	| Time	| Space	| Difficulty	| Note | 
 | - | - | - | - | - | - | - |
 |0002|	[Leetcode 2. Add Two Numbers](https://www.cnblogs.com/pegasus923/p/11154158.html)|	Python|||	 	 	Medium	 |
+|0146| [LRU Cache - LeetCode](https://leetcode.com/problems/lru-cache/description/) | C++ | O(1) | O(k) | Medium |  |
 |0160|	[Leetcode 160. Intersection of Two Linked Lists](https://www.cnblogs.com/pegasus923/p/11180317.html)	|Python	||| 	 	Easy	 |
 |0328| 	[Leetcode 328. Odd Even Linked List](https://www.cnblogs.com/pegasus923/p/11166582.html)|  	Python||| 	 	 	Medium 	 | 	 	 	 	 	 	  	 	 	 	 	 	 
 |0460| [LFU Cache - LeetCode](https://leetcode.com/problems/lfu-cache/description/) | C++ | O(1) | O(k) | Hard |  |
