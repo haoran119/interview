@@ -253,6 +253,7 @@ Visibility|Data is visible to everyone in the URL|Data is not displayed in the U
     * [How to design a System? (Cheatsheet)](https://iq.opengenus.org/how-to-design-system/)
     * [System Design of Bank Management System](https://iq.opengenus.org/system-design-of-bank-management-system/)
     * [System Design of Facebook Messenger](https://iq.opengenus.org/system-design-of-facebook-messenger/)
+* [System Design for Beginners Course - YouTube](https://www.youtube.com/watch?v=m8Icp_Cid5o&list=LL&index=3)
 * [System Design Course for Beginners - YouTube](https://www.youtube.com/watch?v=MbjObHmDbZo)
 * [个人吐血整理的系统设计资料大全 - 九章算法](https://mp.weixin.qq.com/s/4kv57_rBVWemkh5t33WGMw)
 * [如何设计爬虫系统 | 系统设计高频题解题思路分析](https://mp.weixin.qq.com/s/X6e9zXRFDRN05RrD11XUGg)
