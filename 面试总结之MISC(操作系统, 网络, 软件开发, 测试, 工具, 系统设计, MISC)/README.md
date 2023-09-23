@@ -260,6 +260,20 @@ Visibility|Data is visible to everyone in the URL|Data is not displayed in the U
 * [系统设计资料大全](https://mp.weixin.qq.com/s/jl0lQlSv6tOtmI3EMvrZQw)
 * [面试官绝杀：系统是如何支撑高并发的？](https://mp.weixin.qq.com/s/fHSKIgJVTdoPVu7hFAZXSw)
 * [每秒千万级实时数据处理系统是如何设计的？](https://mp.weixin.qq.com/s/BwDvqt2yLEq8BHnQUGS8gw)
+* [字节三面：如何设计一个高性能短链系统？](https://mp.weixin.qq.com/s/Fzg34Q6PH2-Q8SzH_uaxng)
+    * 什么是短链？为什么要用短链？
+    * 短链跳转的基本原理
+    * 生成短链的两种方法
+        * 方法 1：哈希算法
+            * 如何让短链更短
+                * 将 10 进制的哈希值，转化成更高进制的哈希值，这样哈希值就变短了。
+            * 如何解决哈希冲突
+            * 如何优化性能
+                * 给短链字段建立唯一索引
+                * 布隆过滤器
+        * 方法二：ID 生成器
+            * 相同的原始网址可能会对应不同的短链
+            * 如何实现高性能的 ID 生成器
 
 ### [System Design Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/system-design-tutorial/)
 
